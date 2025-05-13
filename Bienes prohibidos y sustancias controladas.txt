@@ -1,0 +1,488 @@
+
+ 
+
+
+ 	
+CARGOS AUTORIZADOS PARA FIRMAR O AUTORIZAR FORMATOS SIG DE OPERACIONES Y DEMAS DOCUMENTOS DE LAS OPERACIONES EN ZONA FRANCA
+	
+CÓDIGO:
+
+DG-OP-002	
+VERSIÓN:
+
+011	
+FECHA DE ACTUALIZACIÓN:
+
+2025-02-04
+
+1.	OBJETIVO
+
+Definir los cargos responsables o autorizados para firmar los documentos del Sistema Integrado de Gestión del proceso de operaciones o los demas documentos implicitos en las operaciones de la Zona Franca.
+2.	ALCANCE
+
+Este documento aplica para la Zona Franca Palmaseca y demás zonas francas operadas por esta.
+
+3.	CAMBIOS
+
+Versión 10 a la Versión 11
+
+  Se incluye una nota en el numeral 5.2. RELACIÓN DE DOCUMENTOS CON SU RESPECTIVO CARGO AUTORIZADO PARA FIRMAR Y/O AUTORIZAR, donde se permite también el V.°B.° y/o aprobación de ajustes de desperdicio por parte del Coordinador y Analista Senior de Operaciones en la Zona Franca Parque Sur.
+Versión 9 a la Versión 10
+
+  Se cambia el nombre del documento.
+  Se amplia el objetivo del documento, pasando a tener en cuenta los demas documentos implicitos en las operaciones de zona franca, aún cuando estos no hacen parte del SIG de operaciones.
+  Se incluye el Ajuste de ingreso a saldos transitorios con origen en Zona Franca (procesos parciales y/o temporales en el Territorio Aduanero Nacional) por no reingreso de materias primas, insumos, bienes intermedios o bienes terminados que salieron al territorio aduanero nacional para la realización de pruebas técnicas cuando hayan sido objeto de destrucción.
+  Se incorpora las Cartas aclaratorias expedidas por el declarante ante inconsistencias en las casillas de la declaración de importación soporte de Formularios de Movimiento de mercancias.
+
+Versión 8 a la Versión 9
+
+  Se cambia los firmantes autorizados para el FO-OP-057 - NOTIFICACIÓN DE TRAMITE DE DESTRUCCIÓN DE MERCANCÍAS A LA AUTORIDAD ADUANERA a cargo del Analista Senior de Operaciones.
+  Se eliminan documentos obsoletos del proceso de gestión de operaciones.
+  Se elimina el contenido de la nota 3, relacionada con la verificación adicional realizada por un analista diferente al que da visto bueno.
+
+Versión 7 a la Versión 8
+
+  Se crea NOTA 4 del numeral 5.1. NOTAS APLICABLES AL CONTENIDO DEL NUMERAL 5.2. DEL PRESENTE DOCUMENTO.
+  Se precisa la autorización de ajustes de inventario a cargo de coordinador de operaciones para los casos en que es por ajuste de decimales para oro, piedras preciosas o cannabis.
+  Se precisa la autorización de FO-OP-041 - ACTA DE BAJA DE ELEMENTOS PERECEDEROS, FUNGIBLES Y CONSUMIBLES DENTRO DEL PROCESO PRODUCTIVO O DE LA
+PRESTACION DEL SERVICIO y los FO-OP-028 - SOLICITUD DE AJUSTES DE INVENTARIOS (Solo en el caso en que el ajuste sea para corregir la aplicación de un ajuste al inventario), estas actividades quedan a cargo del Coordinador de Operaciones.
+Versión 6 a la Versión 7
+
+  Se adicionan nuevos documentos del proceso de Gestión de Operaciones. (FO-OP-042 CONTROL DE INGRESO Y SALIDA DE MAQUINARIA, EQUIPOS , HERRAMIENTAS Y DEMÁS OBJETOS DE CONTROL POR PARTE DEL USUARIO OPERADOR, FO-OP-058 SOLICITUD DE AJUSTE PARA CONCILIACIÓN DE INVENTARIOS, FO-OP-059 LISTA DE VERIFICACIÓN DE CONTENEDORES DE USUARIO CALIFICADO O AUTORIZADO, FO-OP-061 MATRIZ DE EVENTOS PRESENTADOS EN EL DÍA, FO-OP-062 MATRIZ DE ERRORES POR FUNCIONARIO INTEGRADA, FO-OP-065 PODER ESPECIAL PARA DOCUMENTOS DE OPERACIONES, FO-OP-066 CERTIFICACIÓN DE CONFORMIDAD DEL INVENTARIO, FO- OP-068 SOLICITUD DE AUTORIZACIÓN DE RETIRO DE EQUIPOS DE TELECOMUNICACIÓN, FO-OP-069 CRONOGRAMA DE TRABAJO - METODOLOGÍA GANTT., FO-OP-070 ACTA DE COMPROMISO DE CONCILIACIÓN DE INVENTARIOS: ACTIVIDADES, PERIODICIDAD, TIEMPOS DE ENTREGA Y RESPONSABLES.)
+  Se eliminan documentos obsoletos del proceso de Gestión de Operaciones. (FO-OP-032 ACTA DE SALIDA DE DESPERDICIOS Y RESIDUOS EXTRANJEROS SIN VALOR COMERCIAL, FO-OP-039 FORMATO PARA ANULACIÓN DE FMM)
+  Se cambian los firmantes autorizados del FO-OP-028 SOLICITUD DE AJUSTES DE INVENTARIO, FO-OP-022 JUSTIFICACIÓN DIFERENCIA DE PESO PARA SALIDA DE MERCANCÍA, FO-OP-025 SALIDA DE MATERIAL DE EMPAQUE Y EMBALAJE QUE NO HACE PARTE DEL PROCESO PRODUCTIVO Y/O PRESTACIÓN DEL SERVICIO DEL USUARIO.
+  Se adicionan notas generales al documento en el numeral 5.1.
+
+Versión 5 a la Versión 6
+
+  Se eliminan los formatos FO-OP-003 FORMATO DE SALIDA DIAN RESTO DEL MUNDO FO-OP004 FORMATO DE AUTORIZACIÓN DE PROCESOS PARCIALES FO-OP-007 PLANILLA DE ENVÍO MANUAL FO-OP-026 FORMATO PARA SALIDA DE RESIDUOS Y DESPERDICIOS NACIONALES QUE RESULTARON DEL PROCESO PRODUCTIVO CON O SIN VALOR COMERCIAL FO-OP-031 FORMATO PARA SALIDA DE RESIDUOS Y DESPERDICIOS EXTRANJEROS SIN VALOR COMERCIAL QUE RESULTARON DEL PROCESO PRODUCTIVO Y FO-OP-040 FORMATO DE SOLICITUD DE SALIDA DE BIENES CONSUMIBLES, FUNGIBLES Y PERECEDEROS CONSUMIDOS DENTRO DEL PROCESO PRODUCTIVO del listado de
+documentos, la mayoria de estos fueron unificados con las actas y dado al cambio normativo para algunos ya no es necesario su uso.
+  Se cambia la numeración de los documentos.
+  Se cambia el cargo autorizado para firmar elFO-OP-021 - SOLICITUD DE AUTORIZACIÓN DE SALIDA A PROCESAMIENTO PARCIAL DE MATERIAS PRIMAS, INSUMOS, BIENES
+INTERMEDIOS Y PRUEBAS TÉCNICAS. pasa al coordinador de Operaciones, numeral 8.
+  Se actualiza el numeral 13 eliminando texto dentro del recuadro del nombre del formato, se eliminan algunos tipos de ajustes a cargo de la dirección de operaciones los cuales pasan al coordinador de operaciones.
+  Se relaciona el formato FO-OP-057 - NOTIFICACIÓN DE TRAMITE DE DESTRUCCIÓN DE MERCANCÍAS A LA AUTORIDAD ADUANERA.
+  Se da alcance al supervisor de operaciones en el formato Advertencia! : document index (140) not found in active documents   Se actualiza la normatividad aplicable.
+4.	DEFINICIONES
+
+N/A
+
+5.	DESCRIPCIÓN
+
+5.1.	NOTAS APLICABLES AL CONTENIDO DEL NUMERAL 5.2. DEL PRESENTE DOCUMENTO.
+  NOTA 1: Los cargos autorizados para la firma de cada documento son los indicados, así como los de mayor nivel jerarquico existentes en el proceso de Gestión de Operaciones.
+  NOTA 2: Las autorizaciones realizadas desde el Sistema AMIGO PRO por el modulo de AUTORIZACIONES homologaran las firmas fisicas.
+  NOTA 3: Teniendo en cuenta que el supervisor de Operaciones o Coordinador de Operaciones no llevan a cabo la labor de aprobación de FMM, las revisiones de estos cargos serán meramente documentales.
+
+5.2.	RELACIÓN DE DOCUMENTOS CON SU RESPECTIVO CARGO AUTORIZADO PARA FIRMAR Y/O AUTORIZAR
+
+
+DOCUMENTO	
+PAUTAS ESPECIALES DE REVISIÓN	
+CARGOS AUTORIZADOS
+
+
+Advertencia! : document index (113) not found in active documents	
+Este formato es utilizado como contingencia o en una operación especial. MA-OP-001 - MANUAL DE CONTINGENCIA GESTIÓN DE OPERACIONES
+
+
+No requiere firma del Usuario Operador
+ 
+
+
+
+FO-OP-005 - RELACIÓN DE DOCUMENTOS ENTREGADOS PARA ARCHIVO
+
+
+
+
+Se debe tener en cuenta los tiempos de transferencia de la documentación al archivo central según FO-CT-013 TABLA DE RETENCIÓN DOCUMENTAL TRD del proceso de Operaciones.	
+Entrega: Cualquier colaborador del proceso de Gestión de Operaciones
+Recibe: Asistente Administrativo de Operaciones
+FO-OP-006 - PLANILLA DE ENVÍO TRANSPORTADOR O AUTORIDAD ADUANERA
+Artículo 492 del Dec 1165/2019: OPERACIONES ENTRE USUARIOS DE ZONAS FRANCAS:
+Cuando el traslado de mercancías no implique cambio de jurisdicción aduanera, el usuario operador trasladará la mercancía al amparo de una planilla de envío.	No requiere firma del Usuario Operador
+FO-OP-017 - MOVIMIENTO DE VEHÍCULOS ZONA FRANCA PALMASECA
+
+Aplica para el proceso de patios	No requiere firma del Usuario Operador
+FO-OP-018 - SOLICITUD DESTRUCCIÓN DE MERCANCÍAS AL USUARIO OPERADOR
+
+Articulo 487 del Dec. 1165/2019: MERCANCIAS EN GRAVE ESTADO DE DETERIORO, DESCOMPOSICIÓN, DAÑO TOTAL O DEMÉRITO ABSOLUTO.	
+No requiere Firma del Usuario Operador
+FO-OP-019 - ACTA DE DILIGENCIA DE DESTRUCCIÓN DE MERCANCÍAS
+Articulo 487 del Dec. 1165/2019: MERCANCIAS EN GRAVE ESTADO DE DETERIORO, DESCOMPOSICIÓN, DAÑO TOTAL O DEMÉRITO ABSOLUTO.	
+Analista de Operaciones
+FO-OP-020 - FORMATO VISITAS VERIFICACIÓN DE PROCESOS PARCIALES Y PRUEBAS TÉCNICAS
+
+
+Articulo 489 del Dec. 1165/2019: PROCESAMIENTO PARCIAL FUERA DE ZONA FRANCA.	
+
+Analista de operaciones
+FO-OP-021 - SOLICITUD DE AUTORIZACIÓN DE SALIDA A PROCESAMIENTO PARCIAL DE MATERIAS PRIMAS, INSUMOS, BIENES INTERMEDIOS Y PRUEBAS TÉCNICAS.
+
+
+
+Articulo 489 del Dec. 1165/2019: PROCESAMIENTO PARCIAL FUERA DE ZONA FRANCA.	
+
+
+Coordinador de Operaciones
+
+
+
+
+
+FO-OP-022 - JUSTIFICACIÓN DIFERENCIA DE PESO PARA SALIDA DE MERCANCIA
+
+
+
+
+
+
+Articulo 153 del Dec. 1165/2019: MARGEN DE TOLERANCIA. El motivo debe ser sustentando por el usuario y debe estar verificado por el Analista de operaciones.	
+Verificación y Control de la Operación:
+Analista de Operaciones en Báscula.
+Autorización de la operación:
+Analista Senior de Operaciones.
+
+FO-OP-023 - CESIÓN DE DERECHO DE MERCANCÍAS ENTRE USUARIOS
+Articulo 551 de la Res. 046 de 2019: CESIÓN DE DERECHOS DE ALMACENAMIENTO ENTRE USUARIOS DE ZONA FRANCA PERMANENTE.
+Aplica para operaciones solo entre usuarios comerciales e industriales y esta mercancía debe ser de terceros
+paises.	
+
+Dirección de Operaciones
+
+FO-OP-024 - PODER CESIÓN DE DERECHOS
+Articulo 551 de la Res. 046 de 2019: CESIÓN DE DERECHOS DE ALMACENAMIENTO ENTRE USUARIOS DE ZONA FRANCA PERMANENTE.
+Aplica para operaciones solo entre usuarios comerciales e industriales y esta mercancía debe ser de terceros
+paises.	
+No requiere firma del Usuario Operador.
+
+
+
+
+
+
+
+FO-OP-025 - SALIDA DE MATERIAL DE EMPAQUE Y EMBALAJE QUE NO HACE PARTE DEL PROCESO PRODUCTIVO Y/O PRESTACIÓN DEL SERVICIO
+
+
+
+
+
+
+
+
+
+Conforme lo contenido en el IN-OP-009 - CONTROLES A LOS RESIDUOS, DESPERDICIOS Y MATERIAL DE EMPAQUE Y EMBALAJE
+
+Verificación al inicio y durante el cargue en instalaciones del usuario: Analista de Operaciones.
+Autorización de NO verificación de la operación durante el cargue:
+Supervisor de Operaciones.
+
+Verificación en Báscula y Control de la Operación: Analista de Operaciones en Báscula.
+ 
+
+FO-OP-028 - SOLICITUD DE AJUSTES DE INVENTARIOS
+
+Cuando el ajuste sea por reclasificación de subpartidas se debe:
+
+Verificar que se trate del mismo ítem, mismo valor FOB y misma cantidad de la subpartida que se va ha reclasificar.
+Verificar que la nueva subpartida tenga relación con la subpartida anterior.
+Si se trata de mercancias nacionalizadas revisar el impacto y responsabilidad a nivel de pago de tributos aduaneros.	
+
+
+
+Analista Senior de Operaciones
+	Cuando el ajuste sea por reclasificación de ítems deberá cumplir con lo siguiente:
+Verificar que se trate de la misma cantidad y precio de la subpartida que se va ha reclasificar. En caso de que las cantidades o precios sean diferentes la autorización deberá realizarla el coordinador de operaciones.
+Validar por que se originó el cambio.
+No procedera si se reclasifica de un item nacional o Nacionalizado a uno extranjero, o viceversa.
+
+
+
+Analista Senior de Operaciones
+	Cuando el ajuste sea por cambio del tipo de inventario Transitorio a Definitivo o viceversa se debe: (aplica solo para AMIGO)
+Asegurar que exista un ajuste de salida y de ingreso. Validar por que se originó el cambio de inventario.
+Revisar concordancia de la información del formato FO-OP-028 con la documentación aportada por el usuario de ser el caso	
+
+
+Analista Junior de Operaciones
+	Cuando el ajuste sea por sobrantes o faltantes en cantidades soportados en acta de reconocimiento de la Agencia de Aduanas se debe:
+Debe estar soportado por el reconocimiento de la mercancía
+Verificar que no se trate de bultos (aplica únicamente para unidades internas)
+
+
+Analista Senior de Operaciones
+	Cuando el ajuste sea por decimales se debe:
+Tener en cuenta la unidad comercial del item que se piensa ajustar
+Verificar que la cantidad del ajuste no sea representativa para el usuario, según su manejo de unidades de medida internas.
+
+Si lo items a los que hace referencia este tipo de ajuste son Oro, esmeraldas piedras preciosas, Cannabis en cualquiera de sus estados (materia prima, subproductos, producto terminado o productos a base de esta sustancia) deberán ser autorizados solo por el Coordinador de Operaciones.	
+
+
+
+Analista Senior de Operaciones
+	Cuando el ajuste sea por retiro de repuestos se debe:
+Verificar que corresponda a una parte de un repuesto de bien capital. Verificar que corresponda a la subpartida del repuesto.
+En las justificaciones debe ser claro que se trata de repuestos que se ingresaron al sistema por ser parte de
+una unidad funcional y requerirse retirar al TAN para reparación, revisión o mantenimiento. De ser posibe, solicitar los FMMs de ingreso involucrados en estos procesos.	
+
+
+
+Analista Senior de Operaciones
+	
+Cuando el ajuste sea por cambio de origen de un item y la mercancia es de propiedad de terceros se debe: (aplica solo para ZFP Palmaseca)
+El usuario debe presentar las declaraciones de importación asociadas con levante y los correspondientes FMMs
+Referencias, cantidades y valores asociados deben corresponder con las declaraciones de importación Debe generarse preingreso a la cuenta que corresponda.	
+
+
+
+Analista Senior de Operaciones
+	
+Cuando se requiera tomar parte de un lote para que se convierta en materia prima para un nuevo proceso productivo:
+El usuario debe aportar la orden de producción donde se indique la cantidad de producto terminado que se convierte en materia prima.
+El ajuste de salida corresponde al lote convertido en materia prima. Debe ser un certificado de integración. El valor de ingreso debe corresponder al de las materias primas dentro del certificado de integración.
+Si el producto terminado que se vuelve materia prima tiene por lo menos un componente extranjero, el origen del item es extranjero.
+Si hay material de empaque y embalaje que se recupera en este proceso, debe ser ingresado también de manera independiente conservando el valor de salida	
+
+
+
+
+
+
+Supervisor Operaciones
+	Cuando el ajuste sea de ingreso de desperdicios se debe:
+
+Sustentar de donde se generan los desperdicios. Conservar el origen del desperdicio.
+El rango de fechas deberá ser concordante con lo presentado por el usuario.
+Verificar el(los) FMM(s) que el usuario indica se descargaron teniendo en cuenta lo siguiente: Si es de un FMM de salida se debe relacionar el certificado de integración
+Si no ha salido debe de relacionar un documento interno del usuario
+
+Nota: Para el caso de la Zona Franca Permanente Conjunto Industrial Parque Sur, el V.°B.° y/o aprobación de este tipo de ajustes también podrá ser realizado por el Coordinador y Analista Senior de Operaciones. V.°B.°	
+
+
+Coordinador de Operaciones Supervisor de Operaciones
+Analista Senior de Operaciones
+	
+Cuando el ajuste sea para corregir el uso de una transacción de ajustes ya aprobados se deberá cumplir con lo siguiente:
+Relacionar el ajuste inicial.
+Revisar que la aplicación logica matematica sea correcta (ejemplo: Si error fue por un ajuste de salida y realmente era uno de ingreso, el usuario debe ingresar dos (02) veces la cantidad erróneamente retirada)	
+
+
+
+Coordinador de Operaciones
+	Cuando el ajuste sea por cambio de precio se debe:
+
+Verificar que la justificación del usuario sea suficiente y los soporte sean correctos.
+
+Coordinador de Operaciones
+	Cuando el ajuste sea por omisión información en ingresos o salidas de mercancías se debe:
+
+Verificar que la justificación del usuario sea suficiente y los soporte sean correctos.
+
+Coordinador de Operaciones
+ 
+	Cuando el Ajuste de ingreso a saldos transitorios con origen en Zona Franca (procesos parciales y/o temporales en el Territorio Aduanero Nacional) sea porque no reingreso materias primas, insumos, bienes intermedios o bienes terminados que salieron al territorio aduanero nacional para la realización de pruebas técnicas cuando hayan sido objeto de destrucción, por razones de fuerza mayor o caso fortuito debidamente probados por el usuario industrial ante la autoridad aduanera.
+Se debe tener en cuenta:
+Las actas, reportes o documentos soporte de destrucción deben evidenciar claramente los motivos o razones de fuerza mayor o caso fortuito, es decir el soporte del laboratorio en donde se pueda identificar la trazabilidad de lo que se destruyó proveniente de la Zona Franca, además de las explicaciones técnicas que justifiquen el no reingreso de la mercancía.
+El acta, reporte o documento soporte que relaciona los hechos de la destrucción y presenta las justificaciones técnicas debe tener una correlacionar directa con el FMM de salida que se autorizó.
+El acta, reporte o documento soporte del proveedor o del laboratorio no debe estar en función de generalidades debe ser específica y técnica.	
+
+
+
+
+
+
+
+
+Coordinador de Operaciones
+	
+Ajustes por temas no contemplados en este documento.	
+Coordinador de Operaciones
+
+FO-OP-029 - FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN
+
+Articulo 525 de la Res. 046 de 2019: MATERIALES PARA LA CONSTRUCCIÓN DE EDIFICACIONES NECESARIOS PARA EL DESARROLLO DE LA ZONA FRANCA.
+Excepción: Materiales de construcción exentos de IVA por ser parte del objeto social del usuario.	
+
+Analista de operaciones en Portería 1 o Báscula.
+FO-OP-033 - SOLICITUD DE PRORROGA DE REINGRESOS
+Artículo 489 del Dec. 1165 de 2019: PROCESAMIENTO PARCIAL FUERA DE ZONA FRANCA y el Artículo 490 del Dec. 1165 de 2019: REPARACIÓN, REVISIÓN O MANTENIMIENTO DE BIENES DE CAPITAL, EQUIPOS, HERRAMIENTAS, PARTES O SUS REPUESTOS FUERA DE ZONA FRANCA	Supervisor o Coordinador de Operaciones
+
+
+
+
+
+
+
+
+FO-OP-034 - ACTA DE SALIDA DE DESPERDICIOS Y RESIDUOS DEL PROCESO PRODUCTIVO O DE LA PRESTACIÓN DEL SERVICIO
+
+
+
+Articulo 488 del Dec. 1165/2019: SUBPRODUCTOS, SALDOS, RESIDUOS Y DESPERDICIOS, el articulo 539 de la Res. 046 de 2019: SALIDA DE RESIDUOS Y DESPERDICIOS SIN VALOR COMERCIAL y el articulo 538 de la Res. 046 de 2019 SOLICITUD DE SALIDA DE SUBPRODUCTOS, SALDOS, RESIDUOS Y DESPERDICIOS CON VALOR COMERCIAL.
+Se debe revisar especialmente los origenes de los items descritos por el usuario.
+Se debe revisar las justificaciones del usuario cuando los desperdicios o residuos a retirar sean sin valor comercial.
+Revisar la verificación realizada por el inspector de operaciones.
+Revisar el firmante de parte del usuario calificado o autorizado, especialmente cuando se trate de residuos o desperdicios extranjeros sin valor comercial.	
+Verificación al inicio y durante el cargue en instalaciones del usuario: Analista de Operaciones.
+Autorización de NO verificación de la operación durante el cargue: Supervisor de Operaciones.
+Verificación en Aprobaciones y Control de la Operación: Analista de Operaciones en Aprobaciones
+FO-OP-035 - Actividades de seguimiento a Usuarios por resultados de auditoría
+Articulo 494 del Dec. 1165 de 2019: OBLIGACIONES DE LOS USUARIOS OPERADORES DE LAS ZONAS FRANCAS	No requiere firma del Usuario Operador.
+FO-OP-037 - LISTA DE CHEQUEO VISITA USUARIOS
+Articulo 494 del Dec. 1165 de 2019: OBLIGACIONES DE LOS USUARIOS OPERADORES DE LAS ZONAS FRANCAS	No requiere firma del Usuario Operador.
+FO-OP-038 - VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES
+
+Se maneja digitalmente	
+No requiere firma del Usuario Operador.
+
+FO-OP-041 - ACTA DE BAJA DE ELEMENTOS PERECEDEROS, FUNGIBLES Y CONSUMIBLES DENTRO DEL PROCESO PRODUCTIVO O DE LA PRESTACION DEL SERVICIO
+
+En cumplimiento al decreto 1165 de 2019 Artículo 491: ELEMENTOS PERECEDEROS, FUNGIBLES Y CONSUMIBLES DENTRO DE LA ZONA FRANCA.
+Que los bienes efectivamente puedan ser objeto de consumo. No aplican activos ni equipos.
+Contar con la documentación soporte interna del usuario que conlleve a la verificación de consumos por medio de cruces de la información y el formato remitido.
+En caso de fungibles, verificar disposición interna que el usuario confiere a éstos físicamente.
+
+
+
+
+Coordinador de Operaciones
+FO-OP-042 - CONTROL DE INGRESO Y SALIDA DE MAQUINARIA, EQUIPOS , HERRAMIENTAS Y DEMÁS OBJETOS DE CONTROL POR PARTE DEL USUARIO OPERADOR.
+	
+
+
+No requiere firma del Usuario Operador.
+FO-OP-043 - SOLICITUD DE AJUSTES DE INVENTARIOS DE INGRESO Y SALIDA DE BIENES DE CAPITAL,EQUIPOS, HERRAMIENTAS, PARTES O SUS REPUESTOS
+
+
+
+En cumplimiento al IN-OP-006 - INSTRUCTIVO DE APROBACIONES.
+
+
+No requiere firma del Usuario Operador.
+
+
+
+FO-OP-044 - ACTA DE VERIFICACIÓN DE LAS OPERACIONES
+Debe firmarse toda vez que el analista de operaciones realice:
+
+Verificación de tránsitos aduaneros
+Verificación de salidas y reingresos por reparación y/o mantenimiento. Verificación de Salidas y reingresos por Procesamiento Parcial.
+Verificación de diferencias de peso.
+Cualquier otra diligencia que implique la verificación de mercancía.
+
+
+
+
+Analista de operaciones
+FO-OP-048 - SOLICITUD DE CREACIÓN DE CUENTA EN APLICATIVO AMIGO / AMIGO PRO
+
+Autorizados para crearlas: Supervisor o Coordinador de Operaciones. Debe estar firmado por el representante legal del usuario.	
+No requiere firma del Usuario Operador
+FO-OP-049 - RELACIÓN SOPORTE FORMULARIO DE SERVICIOS
+Firma el contador y/o revisor fiscal o persona delegada por el representante legal. Para transacciones 320, 114,429 y 222. En conformidad con la tabla CPC del DANE.	No requiere firma del Usuario Operador
+FO-OP-051 - FICHA TECNICA DE OPERACIONES
+
+Se consignan las particularidades de las operaciones de los usuarios.	No requiere firma del Usuario Operador
+ 
+FO-OP-052 - FORMATO VERIFICACIÓN PROVEEDORES PARA REPARACIÓN Y/O MANTENIMIENTO DE BIENES DE CAPITAL, EQUIPOS HERRAMIENTAS, PARTES O SUS REPUESTOS
+
+
+
+Articulo 490 del Dec. 1165/2019: REPARACiÓN, REVISiÓN O MANTENIMIENTO DE BIENES DE CAPITAL, EQUIPOS, HERRAMIENTAS, PARTES O SUS REPUESTOS FUERA DE ZONA FRANCA	
+
+
+Analista Sénior de Operaciones
+FO-OP-056 - NOTIFICACION UNIDAD DE CARGA CONTENEDOR DE EXPORTACIÓN
+	No requiere firma del Usuario Operador
+FO-OP-057 - NOTIFICACIÓN DE TRAMITE DE DESTRUCCIÓN DE MERCANCÍAS A LA AUTORIDAD ADUANERA
+
+Cumplir con lo contemplado en el decreto 1165 DE 2019 Artículo 487. MERCANCIAS EN GRAVE ESTADO DE DETERIORO, DESCOMPOSICIÓN, DAÑO TOTAL O DEMÉRITO ABSOLUTO.	
+Analista Senior de Operaciones
+FO-OP-058 - SOLICITUD DE AJUSTE DE INVENTARIOS PARA CONCILIACIÓN DE INVENTARIOS
+
+El documento presentado por el usuario debe tener los cruces de inventario, las justificaciones necesarias y los soportes respectivos.	
+Coordinador de Operaciones
+FO-OP-064 - LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES
+	No requiere firma del Usuario Operador
+FO-OP-065 - PODER ESPECIAL PARA DOCUMENTOS DE OPERACIONES
+	
+No requiere firma del Usuario Operador
+FO-OP-066 - CERTIFICACIÓN DE CONFORMIDAD DEL INVENTARIO
+	
+Coordinador de Operaciones
+FO-OP-068 - SOLICITUD DE AUTORIZACIÓN DE RETIRO DE EQUIPOS DE TELECOMUNICACIÓN
+	
+No requiere firma del Usuario Operador
+FO-OP-069 - CRONOGRAMA DE TRABAJO - METODOLOGÍA GANTT.
+	
+No requiere firma del Usuario Operador
+FO-OP-070 - ACTA DE COMPROMISO DE CONCILIACIÓN DE INVENTARIOS: ACTIVIDADES, PERIODICIDAD, TIEMPOS DE ENTREGA Y RESPONSABLES
+	
+
+No requiere firma del Usuario Operador
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTROS	
+Cartas aclaratorias expedidas por el declarante ante inconsistencias en las casillas de la declaración de importación soporte de Formularios de Movimiento de mercancias SOLAMENTE los siguientes casos:
+1.	Inconsistencias en la casilla 43: cuando la fecha de la declaración de importación difiere de la fecha de creación del Formulario de Movimiento de Mercancías de salida.
+2.	Inconsistencias en la casilla 45: cuando la fecha de la declaración de importación difiera de la fecha de
+expedición del documento de transporte suscrito en el puerto de origen.
+3.	Inconsistencias en la casilla 52: cuando la fecha de la declaración de importación difiere de la fecha de expedición de la factura comercial.
+4.	Inconsistencias en la casilla 75: cuando la cantidad de subpartidas descritas en la declaración de
+importación sea diferente al total de subpartidas bajo las cuales va a declarar la carga del documento de transporte.
+5.	Cuando el importador o declarante deba relacionar información adicional en la casilla 91 y esta información
+no se relacione con las descripciones mínimas de la mercancía (marcas, seriales, referencias, números que identifiquen de manera clara y precisa la mercancía o la tipifiquen y singularicen).	
+
+
+
+
+
+
+
+
+Analista Junior de Operaciones
+	
+Actas de Control emitidas por la Autoridad Aduanera respecto a las operaciones de los Usuarios en donde se encuentre presente el Usuario Operador.	
+Coordinador de Operaciones
+	Actas de Verificación emitidas por la Autoridad Aduanera respecto a las operaciones de los Usuarios en donde se encuentre presente el Usuario Operador.	Analista Senior de Operaciones
+
+
+6.	DOCUMENTOS DE REFERENCIA.
+
+
+
+6.1.	DOCUMENTOS EXTERNOS:
+
+Artículos relacionados en la casilla de Criterio. Decreto 1165 del 2019.
+Resolución 046 de 2019
+
+Decreto 2147 de 2016
+
+Decreto 659 de 2018
+
+6.2 DOCUMENTOS INTERNOS:
+
+Documentos del SIG del proceso de Operaciones relacionados en el mismo documento.
+
+ELABORÓ	REVISÓ Y APROBÓ
+
+John Alexander Pareja García
+Analista Sénior de Aseguramiento	
+Ayda Mercedes Angulo Soto
+Director de Operaciones
+
+Jeniffer Garzón Fuentes @ 2025-05-07, 8:50:16

@@ -1,0 +1,546 @@
+
+ 
+
+
+ 	
+INSTRUCTIVO DE PORTERÍA 1
+	
+CÓDIGO:
+
+IN-OP-028	
+VERSIÓN:
+
+009	
+FECHA DE ACTUALIZACIÓN:
+
+2024-10-28
+
+1.	OBJETIVO
+
+Establecer las instrucciones y actividades a seguir para ejercer el control de ingresos de vehículos de carga, niñeras y vehículos rodados en la Zona Franca.
+
+2.	ALCANCE
+
+Aplica para las operaciones de ingreso que se llevan a cabo en la Zona Franca Permanente Palmaseca y Zonas Francas Operadas.
+
+3.	CAMBIOS
+
+Pasa de la versión 08 a la 09.
+
+  Se amplia la descripción de la actividad 5.4. CONTROL Y REGISTRO DE INGRESO DE MATERIALES DE CONSTRUCCIÓN Y SALIDA DE ESCOMBROS
+  Se da mayor claridad sobre la forma de aprobación del ingreso de materiales de construcción (herramienta Google Drive, correo electrónico).
+  En la actividad 5.4 se incluye un listado de 24 tipos de materiales que podrán ingresar únicamente con la autorización previa del proceso de Infraestructura y Servicios.
+  Se indica en la actividad 5.4. que los materiales que ingresan los contratistas del proceso de Infraestructura y Servicios deberán presentar el FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN (FO-OP-029) previamente firmado por este proceso como evidencia de la autorización de ingreso.
+  En la actividad 5.4 se incluye el numeral 5.4.1. Ingreso de materiales de construcción en horarios no hábiles.
+  Se incluye en la actividad 5.4. el numeral 5.4.2. Salida de escombros y materiales similares, en el cual, se contempla la notificación de salida de escombros al proceso de Infraestructura y Servicios, además se describen los tipos de materiales relacionados.
+Pasa de la versión 07 a la 08.
+
+  Se amplia la descripción de la actividad 5.4 CONTROL Y REGISTRO DE INGRESO DE MATERIALES DE CONSTRUCCIÓN, donde se realiza una descripción más detallada de los pasos a seguir al momento de autorizar y registrar el ingreso de todo tipo de material de construcción consignado a nombre de un usuario calificado, empresa de apoyo o proveedor de servicio de las empresas instaladas en la Zona Franca Permanente Palmaseca.
+  Se modifica la descripción de la actividad 5.5. INGRESO DE MERCANCÍAS BAJO OTRO TIPO DE CONTROLES DIFERENTES A FMM A USUARIOS CALIFICADOS, EMPRESAS DE APOYO, PROVEEDORES DE SERVICIOS Y CONTRATISTAS EN ZONA FRANCA. eliminando el No Controlados.
+  Se amplia la descripción de los pasos a seguir a la hora del registro y autorización de ingreso de elementos con controles diferentes al FMM antes llamados No controlados. Se relaciona el Artículo 481 del Decreto 1165 de 2019 que define este tipo de elementos.
+De versión 6 a versión 7:
+
+  Se cambia el nombre del documento a INSTRUCTIVO DE PORTERÍA 1.
+  Se modifican los numerales 1. OBJETIVO y 2. ALCANCE del instructivo para dar aplicabilidad unicamente a las operaciones en Zona Franca Permanente Palmaseca.
+  Se precisa que el aplicativo de manejo de inventarios puede ser AMIGO o AMIGO PRO.
+  Se modifica el numeral 5.1 ANUNCIO DE CONDUCTORES PARA EL CARGUE O DESCARGUE DE MERCANCÍA DEL USUARIO:
+  Se trasladan revisiones de encendido y funcionamiento contenidas en el numeral 5.2. REVISIÓN DOCUMENTAL PARA EL INGRESO A ZONA FRANCA
+  Nota 2 teniendo en cuenta que antes relacionaba el PR-OP-012 y ahora se relaciona lo considerado en el INSTRUCTIVO DE INGRESO Y SALIDA DE PERSONAL (IN-SE-001)   Se modifica el numeral 5.2. REVISIÓN DOCUMENTAL PARA EL INGRESO A ZONA FRANCA:
+  Se cambia el nombre del numeral.
+  Se reemplaza la imagen 3 para dar visualización del sistema AMIGO PRO.
+  Se trasladan las revisiones documentales que se encontraban en el numeral 5.3. del presente documento, con el objetivo de contener una secuencia logica de la información.   Se adicionan validaciones relacionadas con el ingreso de mercancía con componente extranjero proveniente de otra zona franca consideradas en el numeral 5.2.1.2.6.
+  Se crea el numeral 5.2.1.2.7. relacionado con las validaciones del ingreso de Café como parte de la actividad generadora de renta del usuario.
+  Se indica que las actividades para el control de ingreso de bienes prohibidos y sustancias químicas controladas son las consideradas en el CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027).
+  Se elimina reporte a la aduana de reingresos de mercancía que salió temporalmente para procesamiento parcial o por motivo de reparación, revisión o mantenimiento de equipos o maquinaria
+  Se modifica el numeral 5.3. AUTORIZACIÓN DE INGRESO DE VEHÍCULOS PARA EL CARGUE O DESCARGUE DE MERCANCÍA DEL USUARIO CALIFICADO O AUTORIZADO:
+  Se indica la realización de la actividad según el sistema implementado AMIGO / AMIGO PRO.   Se especifica la autorización de acceso según la zona franca.
+  Se elimina los numerales 5.4. CONTROL Y REGISTRO DE INGRESO DE SUSTANCIAS CONTROLADAS AL USUARIO CALIFICADO y 5.5. CONTROL DE REGISTRO DE INGRESO DE SUSTANCIAS MASIVAS A CONTRATISTAS, EMPRESAS DE APOYO, PROVEEDORES DE SERVICIOS, USUARIOS CALIFICADOS Y USUARIO OPERADOR teniendo en cuenta que las
+actividades relacionadas se encuentran clasificadas en el CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027).
+  Se modifica la redacción de todo el numeral 5.4. CONTROL Y REGISTRO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN. De versión 5 a versión 6:
+  Se actualiza el 1. OBJETIVO del instructivo.   Se actualiza el 2. ALCANCE del instructivo.
+  Se actualiza el 5.1. ANUNCIO DE CONDUCTORES PARA EL CARGUE O DESCARGUE DE MERCANCÍA DEL USUARIO CALIFICADO del instructivo. Incluyendo imagenes y notas de alclaracion.
+  Se actualiza el 5.2. AUTORIZACION DE INGRESO DE VEHICULOS PARA EL CARGUE O DESCARGUE DE MERCANCÍA DEL USUARIO CALIFICADO del instructivo. Incluyendo
+imagenes y notas de alclaracion.
+  Se actualiza el 5.4. CONTROL Y REGISTRO DE INGRESO DE SUSTANCIAS CONTROLADAS AL USUARIO CALIFICADO. del instructivo. Incluyendo imagenes y notas de alclaracion.
+
+De versión 4 a versión 5
+
+  Se actualiza el numeral 5.1. ANUNCIO DE CONDUCTORES PARA EL CARGUE O DESCARGUE DE MERCANCÍA.
+  Se actualiza el numeral 5.3. Ingreso del vehículo a la báscula para su pesaje respectivo, adicional se incluyen las alertas del PGRN.   Se actualiza la actividad 5.4. Control ingreso de sustancias controladas.
+  Se actualiza la actividad 5.6. Salida de la persona visitante.
+
+4.	DEFINICIONES
+
+No aplica.
+
+5.	DESCRPCION DEL PROCESO.
+
+
+ACTIVIDADES	
+DESCRIPCIÓN	
+REGISTRO
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.	ANUNCIO DE CONDUCTORES PARA EL CARGUE O
+DESCARGUE DE MERCANCÍA DEL USUARIO.
+
+Personal encargado del Usuario Calificado.
+
+Conductor encargado.
+
+Analista de Operaciones en Portería 1.	
+5.1.1.	Verificación del módulo de enturnamiento:
+
+Al inicio del turno, el analista de operaciones en Portería 1 validará que el monitor y equipo de registro se encuentren encendidos y funcionando correctamente, en caso que se presente alguna novedad en los equipos mencionados, se deberá notificar al proceso de sistemas.
+
+5.1.2.	Anuncio
+
+El usuario calificado registra al conductor esperado en el módulo de enturnamiento del aplicativo AMIGO / AMIGO PRO, en dicho módulo relacionará la hora de autorización de ingreso a sus instalaciones, placa del vehículo, nombre y número de documento del conductor.
+
+Cuando el conductor arribe a la Zona Franca, deberá registrarse con la cédula de ciudadanía en el lector del módulo de enturnamiento del aplicativo AMIGO / AMIGO PRO, como se observa en la Imagen 1 con el objetivo de que el sistema valide su llegada y autorice al conductor a presentar la documentación de la mercancía y el vehículo al Analista de Operaciones en Portería 1.
+
+ 
+
+Imagen 1. Lector de código del modulo de enturnamiento.
+
+Nota 1: En los casos que el usuario no haya realizado el registro previo de la información del conductor, este deberá comunicarse directamente con el usuario calificado para que realice el registro en el módulo de enturnamiento del aplicativo AMIGO / AMIGO PRO.
+
+Nota 2: En los casos en que el conductor arribe con acompañantes o ayudantes para las labores internas de cargue o descargue de mercancía, estos deberán validar su autorización de ingreso con el proceso de seguridad de acuerdo a lo contenido en el INSTRUCTIVO DE INGRESO Y SALIDA DE PERSONAL (IN-SE-001)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplicativo AMIGO / AMIGO PRO.
+
+INSTRUCTIVO DE INGRESO Y SALIDA DE PERSONAL
+ (IN-SE-001)
+
+ 
+
+
+5.2. REVISIÓN DOCUMENTAL PARA EL INGRESO A ZONA
+FRANCA
+
+Conductor encargado. Analista de Operaciones	
+5.2.1.	Entrega de la Documentación por parte del conductor:
+
+Después de que el conductor ubique el vehículo en el parqueadero externo, fuera del área declarada como Zona Franca y se anuncie en el módulo de enturnamiento, este se debe dirigir a la ventanilla de atención correspondiente, realizar la fila (si la hay) y entregar la documentación necesaria para permitir su ingreso a Zona Franca.
+
+Nota 1: Para el caso de la Zona Franca Conjunto Industrial Parque Sur, el personal de Seguridad de la portería realiza la verificación del enturnamiento del vehículo y que corresponda al tipo de movimiento registrado (cargue o descargue), en caso de que el vehículo ingrese vacío para cargue de mercancía, el funcionario de Seguridad informará a Báscula para su respectivo pesaje.
+
+5.2.1.1.	Documentación del conductor y el vehículo o unidad de carga:
+
+El Analista de Operaciones o guarda de seguridad (cuando aplique), identificará en primer lugar los datos del conductor y del vehículo, unidad de carga o niñera, exigiéndole al conductor la tarjeta de propiedad del vehículo y la cédula de ciudadanía, para identificarlo plenamente y a la unidad de carga correspondiente.
+
+La documentación suministrada por el conductor deberá corresponder a los datos registrados por el usuario calificado previamente en el módulo de enturnamiento del aplicativo AMIGO / AMIGO PRO como se observa en la Imagen 2 y 3, se verifica que correspondan: Placa del vehículo o unidad de carga, nombre del conductor, numero de cédula del conductor y el usuario calificado.
+
+ 
+
+Imagen 2. Ejemplo de documentos de identidad del conductor y de tarjeta de propiedad de vehículos.
+
+ 
+
+Imagen 3. Revisión documental para ingreso de vehículo.
+
+El Analista de Operaciones en Portería 1 validará si el vehículo es para cargue o descargue de mercancías, revisando así que la documentación soporte se encuentre debidamente consignada o endosada al usuario calificado de la Zona Franca.
+
+El ingreso de niñeras será coordinado por el Analista de Operaciones de la Portería 1 mediante Radio Portátil y será apoyado por el Guarda de Seguridad Encargado de esta portería, el Analista de Operaciones en Portería 1 deberá validar la cantidad de vehículos que contiene la niñera, la cual deberá coincidir con la documentación presentada por el conductor, si es correcto, se procederá a realizar la autorización de ingreso de la niñera y el conductor se dirigirá a la Portería 2 donde se llevará a cabo los controles estipulados en la verificación física contenida en el INSTRUCTIVO DE PATIOS (IN-OP-003) y todos los que de este se desprenden.
+
+5.2.1.2.	Documentación que ampara la mercancía
+
+Dependiendo del tipo de operación que guarde relación con lo registrado en el preingreso o Formulario de Movimiento de Mercancías (FMM), el Analista de Operaciones deberá tener en cuenta lo siguiente para una correcta verificación de los documentos:
+5.2.1.2.1.	Cuando la mercancía venga soportada por una factura comercial o factura de compraventa, se debe verificar lo siguiente:
+Que se encuentre consignada al usuario calificado o autorizado.
+Que la mercancía corresponda a la actividad económica del usuario calificado o autorizado.
+Identificar la resolución de facturación en factura comercial del proveedor del territorio aduanero nacional (T.A.N.).
+Si la mercancía corresponde a bienes prohibidos, restringidos, sustancias y productos químicos que puedan ser utilizados para el procesamiento, fabricación o transformación de narcóticos o drogas que produzcan dependencia psíquica o física realizar los especificado en el CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+
+Aplicativo AMIGO / AMIGO PRO.
+
+INSTRUCTIVO DE PATIOS
+ (IN-OP-003)
+
+CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+
+ 
+5.2.1.2.2.	Cuando la mercancía venga soportada por una remisión, se debe validar lo siguiente:
+
+  Que se encuentre consignada al usuario calificado o autorizado.
+  Que la mercancía corresponda a la actividad económica del usuario calificado o autorizado.
+  Si la mercancía corresponde a bienes prohibidos, restringidos, sustancias y productos químicos que puedan ser utilizados para el procesamiento, fabricación o transformación de narcóticos o drogas que produzcan dependencia psíquica o física se debe llevar a cabo lo definido en el intructivo de CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+  Revisar que el tipo de operación pueda ser soportada con este tipo de documento según los especificado en la
+MATRIZ DE TRANSACCIONES
+
+Nota 2: Para los casos en que la MATRIZ DE TRANSACCIONES no contemple la remisión como documento soporte de la operación, se debe notificar al usuario calificado sobre el tipo de documentación que está presentando el conductor para que este realice las gestiones pertinentes respecto al envío del documento soporte contemplado en la Matriz de Transacciones o corrección del FMM para el caso de AMIGO Pro, y de esta manera realizar el registro adecuado en el preingreso o Formulario de Movimiento de Mercancías.
+5.2.1.2.3.	Cuando la mercancía venga soportada por una declaración de importación, se debe validar lo siguiente:
+
+  Que se encuentre consignada al usuario calificado o autorizado
+  Que la mercancía corresponda a la actividad económica del usuario calificado o autorizado.
+  Si la mercancía corresponde a bienes prohibidos, restringidos, sustancias y productos químicos que puedan ser utilizados para el procesamiento, fabricación o transformación de narcóticos o drogas que produzcan dependencia psíquica o física se debe llevar a cabo lo definido en el intructivo de CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+5.2.1.2.4.	Cuando la mercancía venga soportada por un Documento de Transito Aduanero (DTA o DUTA) y su correspondiente documento de transporte, se debe validar lo siguiente:
+  Que se encuentre consignada al usuario calificado.
+  Que la mercancía corresponda a la actividad económica del usuario calificado.
+  Que la información descrita en el DTA o DUTA está acorde a los datos físicos de la unidad de carga y del vehículo en sitio, verificando:
+  Placa.
+  Contenedor (Si aplica).   Remolque.
+  Sellos de alta seguridad.   Sellos de seguridad.
+  Sellos indicativos.
+  Sellos o precintos electrónicos.
+
+5.2.1.2.5.	Para los casos en que la mercancía venga amparada por una Solicitud de Autorización de Embarque (S.A.E.), se debe validar lo siguiente:
+  La SAE. debe estar siempre acompañada de su respectiva Planilla de traslado. Dicho documento será referencia para el dato del peso en el aviso.
+  Debe estar consignado a un usuario calificado o autorizado de Zona Franca.   Revisar el régimen Aduanero.
+  Verificar destinatario en las casillas 31-39-40.
+  Verificar si la casilla 63 lleva sistemas especiales, cuando ingresa a un usuario comercial de zona franca de lo contrario no se permitirá el ingreso.
+  Verificar el país destino casilla 69.
+  En la Casilla 71 deberá estar consignado el código la Zona Franca respectiva.
+  Que esté diligenciado el cuadro de números de programa de la casilla 142 a la 149.   La fecha de aceptación, no deberá ser mayor a un mes calendario.
+  El número de la SAE. deberá coincidir con el número de la planilla de traslado.
+  El número de la factura y/o remisión deberá coincidir con el número que está consignado en la SAE.
+  En la planilla de traslado deberá estar registrado el número de la placa del vehículo que transporta la mercancía, este dato debe de coincidir con la placa del vehículo en báscula.
+  Si se presenta alguna inconsistencia en los datos antes mencionados, se debe comunicar al usuario calificado o autorizado y no se permitirá el ingreso Zona Franca.
+  Los bienes de capital sometidos a la modalidad de importación temporal de corto o largo plazo para reexportación en el mismo estado, y los bienes sometidos a importación temporal en desarrollo de Sistemas Especiales de Importación-Exportación, Depósitos de Transformación y Ensamble y Depósitos de Procesamiento Industrial, podrán finalizar su régimen con la reexportación a una Zona Franca Permanente a nombre de un usuario industrial o comercial.
+5.2.1.2.6.	Cuando la mercancía provenga de un usuario de zona franca
+
+  Se debe validar que el Formulario de Movimiento de mercancías se encuentre dirigido al usuario calificado o autorizado de la Zona Franca.
+  Cuando se trate de mercancía extranjera que provengan de un usuario de zona franca en la misma jurisdicción aduanera a la del usuario de Zona Franca, se deberá verificar adicionalmente:
+  Que la planilla de envío corresponda a los datos consignados en los demás documentos soporte.
+  Que el certificado de integración o en su defecto la certificación expedida por el usuario de la zona franca que envía la mercancía relacione componentes extranjeros.
+  Cuando se trate de mercancía extranjera que provengan de una jurisdicción aduanera diferente a la de la Zona Franca se deberá exigir:
+  El Documento Único de Tránsito Aduanero (DUTA), el cual deberá cumplir con las especificaciones relacionadas en el numeral 5.2.1.2.4. del presente documento.
+  Que el certificado de integración o en su defecto la certificación expedida por el usuario de la Zona Franca que envía la mercancía relacione componentes extranjeros.
+  En caso de que la mercancía sea únicamente de componente nacional o nacionalizado según certificado de integración o certificado expedido por el usuario de Zona Franca que envía la mercancía, se deberá exigir la presentación de la factura, remisión o declaración de importación, conforme lo definido en los numerales 5.2.1.2.1. 5.2.1.2.2., 5.2.1.2.3. del presente documento.
+  Si la mercancía corresponde a bienes prohibidos, restringidos, sustancias y productos químicos que puedan ser utilizados para el procesamiento, fabricación o transformación de narcóticos o drogas que produzcan dependencia psíquica o física se debe llevar a cabo lo definido en el instructivo de CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+5.2.1.2.7.	Cuando la mercancía corresponda a café y esta se utilice como parte de la actividad generadora de renta del usuario:
+  Dependiendo si la mercancía es nacional, nacionalizada o extranjera se deben solicitar los documentos que amparan la operación conforme lo definido en los numerales 5.2.1.2.1. al 5.2.1.2.6. según aplique.
+  Exigir la guía de tránsito y corroborar que esté consignada al usuario de Zona Franca, en caso de no contar con el documento se deberá enviar correo electrónico al usuario reportando dicha novedad y dar ingreso al vehículo.
+Nota 3: Para los casos en que la mercancía corresponda a bienes prohibidos, restringidos, sustancias o productos químicos que puedan ser utilizados para el procesamiento, fabricación o transformación de narcóticos o drogas que produzcan dependencia psíquica o física y estos vengan consignados a una empresa proveedora de servicios, empresa de apoy o o contratista que está prestando sus servicios al interior de la Zona Franca, el Analista de Operaciones o quien se delegue debe realizar en todos los casos, lo definido en el instructivo de CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS (IN-OP-027)
+ 
+
+	Nota 4: Para los casos en los que se detecte que la mercancía no se encuentra consignada o endosada al usuario calificado o autorizado, empresa proveedora de servicio, empresa de apoyo o contratista, no se debe permitir el ingreso de la mercancía.
+Nota 5: Para los casos en los que se detecte que la mercancía no corresponda a la actividad económica del usuario calificado, se deberá enviar correo electrónico al usuario calificado, Coordinador de Operaciones y/o Supervisor de Operaciones, para que en consecuencia el usuario calificado justifique o sustente el ingreso de dicha mercancía.
+5.2.2. Documentos revisados y conformes.
+
+Una vez la información ha sido verificada y cumpla con los requisitos exigidos para su ingreso a Zona Franca, el Analista de Operaciones o quien se delegue deberá dar clic en la opción Autorizar (Aplicativo AMIGO) o Guardar (Aplicativo AMIGO PRO).	
+ 
+
+
+5.3. AUTORIZACIÓN DE INGRESO DE VEHÍCULOS PARA EL
+CARGUE O DESCARGUE DE MERCANCÍA DEL USUARIO CALIFICADO O AUTORIZADO
+
+Conductor encargado.
+
+Analista de Operaciones en Portería 1.
+
+Analista de Operaciones en Recepción.	
+Una vez realizada la verificación documental, se procede a efectuar el registro inicial del movimiento de camión en el aplicativo AMIGO / AMIGO PRO:
+
+5.3.1.	En sistema AMIGO:
+
+5.3.1.1.	Vehículos vacíos: si el vehículo ingresa vacío para cargue de mercancía a las instalaciones del usuario calificado, quedará el registro en el aplicativo de manejo de inventarios AMIGO como se observa en la Imagen 4.
+
+ 
+Imagen 4. Registro de un vehículo vacío que ingresa a cargar en AMIGO.
+
+El Analista de Operaciones debe realizar el registro del movimiento de camión en el aplicativo AMIGO, registrando la cédula del conductor, nombre del conductor, remolque, empresa transportadora y observaciones a las que da lugar el tipo de movimiento de camión.
+
+Una vez realizado lo anterior, el Analista de operaciones podrá autorizar el ingreso al área declarada como Zona Franca para la toma de peso y las demás verificaciones a las que haya lugar, conforme lo indica el INSTRUCTIVO DE BÁSCULA
+ (IN-OP-001).
+
+5.3.1.2.	Vehículos cargados: el Analista de Operaciones genera el movimiento de camión en el aplicativo AMIGO registrando la información remolque, transportadora, NIT del proveedor, proveedor, orden de compra y observación según sea el caso, según la Imagen 5.
+
+ 
+
+
+Imagen 5. Registro de un vehículo cargado que ingresa a cargar.
+
+El Analista de Operaciones posterior al diligenciamiento de los datos que se muestran en la Imagen 5, debe dar clic en Guardar y procederá con el registro de la documentación que ampara la mercancía que ingresa.
+
+Paso siguiente, el Analista de Operaciones realizará el preingreso como se observa en la Imagen 6 a continuación.
+
+ 
+
+Imagen 6. Selección del usuario calificado al que se le registrara un preingreso.
+
+5.3.1.2.1.	Origen de la Mercancía
+
+Una vez seleccionado el usuario correspondiente, procederá a indicar el origen de la mercancía, es decir, relacionará a qué tipo de operación pertenece el preingreso que está registrando. En la Imagen 7, se puede ver las opciones que arroja el sistema:
+T.A.N.: Territorio Aduanero Nacional. Misma Zona Franca.
+R.M.: Resto del Mundo Otra Zona Franca.
+
+ 
+
+Imagen 7. Selección de origen de la operación en el registro de un preingreso en aplicativo AMIGO.
+
+Una vez seleccionado el origen de la operación, como se observó en las Imágenes 6 y 7, el Analista de Operaciones deberá seleccionar el documento que ampara la operación y registrar el consecutivo o número del documento como se observa en el aplicativo AMIGO  . Para registrar esta casilla, el Analista de Operaciones deberá tener en cuenta lo siguiente:
+
+5.3.1.2.1.1. Operaciones desde el resto del mundo (R.M) con destino a Zona Franca
+
+Cuando el preingreso a realizar corresponda a una operación que tiene como origen el resto del mundo (R.M.) con destino a un usuario de la Zona Franca, el Analista de Operaciones registrará el tipo de documento en el aplicativo AMIGO, según la Imagen 8, conforme se encuentre la documentación física proporcionada por el conductor del vehículo.	Aplicativo AMIGO / AMIGO PRO.
+
+Correo Electrónico.
+
+INSTRUCTIVO DE BÁSCULA
+ (IN-OP-001).
+
+ 
+
+	 
+
+Imagen 8. Selección de documentos soportes del registro de un preingreso.
+
+Para el diligenciamiento correcto del preingreso se deberá tener en cuenta los diferentes tipos de documentos que pueden ser presentados en la portería, como se observa en la Figura 1:
+ 
+
+Figura 1. Opciones de documentación que pueden presentarse en el ingreso de mercancía desde el R.M. a Zona Franca.
+
+5.3.1.2.1.2.	Operaciones desde otra Zona Franca
+
+Cuando el preingreso a realizar corresponda a una operación que tiene como origen otra Zona Franca y va dirigida a un usuario de la Zona Franca Palmaseca, el Analista de Operaciones registrará el tipo de documento en el aplicativo AMIGO, según la Figura 2, conforme se encuentre la documentación física proporcionada por el conductor del vehículo.
+
+ 
+
+Figura 2. Opciones de documentación que pueden presentarse en el ingreso de mercancía desde otra Zona Franca.
+
+5.3.1.2.1.3.	Operaciones desde el Territorio Aduanero Nacional (T.A.N) con destino a Zona Franca
+
+Cuando el preingreso a realizar corresponda a una operación que tiene como origen el Territorio Aduanero Nacional (T.A.N.) con destino a un usuario de Zona Franca, el Analista de Operaciones registrará el tipo de documento en el aplicativo AMIGO, según la Figura 3, conforme se encuentre la documentación física proporcionada por el conductor del vehículo.
+
+ 
+
+Figura 3. Opciones de documentación que pueden presentarse en el ingreso de mercancía desde el territorio aduanero nacional.
+
+5.3.1.2.2. Registro de otras casillas del preingreso
+
+Una vez definido el tipo de operación a registrar en el preingreso del aplicativo AMIGO, el Analista de Operaciones procederá a registrar las siguientes casillas como se pueden observar en la Imagen 9:
+
+Destino.
+Cantidad Documental. Peso Documental.
+Cantidad Física.
+
+ 
+
+Imagen 9. Ilustración del aplicativo AMIGO al momento de registrar un preingreso.
+
+El Analista de Operaciones, registrará dicha información para finalizar el preingreso revisando la información contenida en los documentos que el conductor presente y tendrá en cuenta si el destino de la mercancía es un usuario calificado que utilice el módulo de patios, es decir, vehículos o camiones   o controle su inventario por cantidades y peso bruto de las mercancías  .
+
+Una vez finalizado el registro del preingreso acorde a la documentación presentada por el conductor, se procederá a dar clic en  .
+
+5.3.2. En sistema AMIGO PRO:
+
+Una vez se surta el Numeral 5.2.2. Documentos revisados y conformes del presente documento, se procede a buscar la placa del vehículo en la sección de Confirmación de Ingreso Pendiente en el Control de Ingresos de Portería, se selecciona SI en la opción Autorización de Ingreso como se muestra en la imagen 10.	
+ 
+
+	 
+Imagen 10. Ventana previa a la autorización de ingreso
+
+Una vez se despliegan las demás opciones en la misma ventana, el Analista de Operaciones debe asociar el Formulario de Movimiento de Mercancías (FMM) que previamente fue creado por el usuario calificado o autorizado al movimiento dando clic en   de la opción   como se muestra en la imagen 11.
+
+ 
+
+Imagen 11. Asociación del FMM al movimiento.
+
+Una vez seleccionado el documento soporte o número de Formulario, el Analista de Operaciones o quien se delegue debe digitar el número de documento, bultos documentales y peso documental, conforme la documentación entregada por el conductor y dar clic en Guardar, conforme lo muestra la Imagen 12.
+
+ 
+
+Imagen 12. Ventana de Autorización de Ingreso.
+
+5.3.3. Autorización de acceso.
+
+Una vez realizado lo anterior en AMIGO o AMIGO PRO según sea el caso, el Analista de Operaciones dará la instrucción al conductor para que se dirija con su vehículo y documentación a la Báscula de Ingreso de la Zona Franca, con el objetivo de que se surta lo definido en el INSTRUCTIVO DE BÁSCULA (IN-OP-001).
+
+ 
+
+
+5.4. CONTROL Y REGISTRO DE INGRESO DE MATERIALES DE CONSTRUCCIÓN Y SALIDA DE
+ESCOMBROS	
+El ingreso de materiales de construcción al área declarada como Zona Franca, sin que medie un FMM se permitirá cuando:
+
+Los materiales de construcción estén consignados a un Usuario Calificado, Empresa de Apoyo, Proveedor de Servicio o contratista que presta su servicio al interior de la Zona Franca.
+En caso de que los materiales de construcción estén consignados a un Usuario Calificado, se deberá validar que éstos no constituyan parte de su objeto social y no contribuyan al normal desarrollo de su operación.
+Una vez validado lo anterior, el Analista de Operaciones en Portería 1 registra la información contenida en el FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN (FO-OP-029) y demás documentos soporte en el archivo compartido en la herramienta de Google Drive, finalmente firma y sella el formato en mención.
+Una vez realizado lo anterior se debe indicar al conductor su paso por Báscula de Ingreso, conforme lo estipulado en el INSTRUCTIVO DE BÁSCULA (IN-OP-001).
+Para el caso de de la Zona Franca Palmaseca, el ingreso de todo tipo de material de construcción consignados a nombre de un Usuario Calificado, Empresa de Apoyo o Proveedor de Servicio de las empresas instaladas en la Zona Franca Permanente Palmaseca, haga parte o no de su objeto social, será permitido siempre y cuando medie autorización previa otorgada por parte del proceso de Infraestructura y Servicios del Usuario Operador, para la cual el Analista de Operaciones debe validar en la herramienta existente en Google Drive y compartida por el proceso de Infraestructura y Servicios “Listado de Obras, Proyectos y Adecuaciones Autorizadas Usuarios”, que los materiales se encuentren relacionados en el listado de adecuaciones de infraestructura allí mencionadas.
+Para los casos en que estos materiales no se encuentren relacionados en la herramienta de Google Drive “Listado de Obras, Proyectos y Adecuaciones Autorizadas Usuarios” (Mejoras Inmuebles) o haya alguna duda sobre el ingreso de los mismos, el Analista de Operaciones solicitará la autorización vía correo electrónico al Analista de Mantenimiento con copia al Coordinador Técnico para que estos realicen las validaciones y autorizaciones pertinentes.
+En todo caso, el Analista de Operaciones no debe permitir el ingreso de materiales de construcción con destino a cualquiera de las empresas instaladas en el parque industrial de la zona franca, sin que cuente con la aprobación del proceso Infraestructura y Servicios.
+Una vez verificado lo anterior, el Analista de Operaciones de Portería 1 validará que los datos consignados en el FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN (FO-OP-029), y demás documentos soporte, tengan relación con los materiales de construcción autorizados a ingresar y deberá firmar y sellar el formato en mención previo a su ingreso.
+De no lograr validar dicha autorización correspondiente, no se debe permitir el ingreso de los materiales, en tal caso, el proveedor debe revisar con la empresa instalada en la zona franca, para que esta gestione la autorización correspondiente por parte del proceso de Infraestructura y Servicios del usuario Operador.
+Dentro de los materiales de construcción que podrán ingresar únicamente con la previa autorización del proceso de Infraestructura y Servicios tenemos los siguientes:
+1.	Cualquier tipo de Ladrillo.
+2.	Cualquier tipo de cemento en bulto.
+3.	Arena.
+4.	Grava.
+5.	Tejas de cualquier tipo.
+6.	Perfiles en aluminio y en acero.
+7.	Tubería en acero o hierro.
+8.	Láminas de SuperBoard.
+9.	Láminas de Panel yeso.
+10.	Varillas de cualquier tipo y dimensión.
+11.	Láminas metálicas.
+12.	Madera.
+13.	Guadua.
+14.	Mallas.
+15.	Vehículos mixer (Mezcla y transporte de concreto).
+16.	Puertas.
+17.	Ventanas.
+18.	Sanitarios.
+19.	Lavamanos.
+20.	Transformadores.
+21.	Postes en concreto.
+22.	Enchapes (Cerámicas).
+23.	Estructuras metálicas.
+24.	Carpas y sus estructuras.
+
+Para el caso de los materiales de construcción ingresados por parte de los contratistas del proceso de Infraestructura y Servicios de la Zona Franca Palmaseca, el Coordinador Técnico y el Analista Sénior de Proyectos y Mantenimiento firmarán previamente el FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN (FO-OP-029) como evidencia de la autorización del ingreso de estos materiales, esta firma deberá ir acompañada del sello de Zona Franca.
+Una vez realizado lo anterior se debe indicar al conductor su paso por Báscula de Ingreso, conforme lo estipulado en el INSTRUCTIVO DE BÁSCULA (IN-OP-001).
+5.4.1.	Ingreso de materiales de construcción en horarios no hábiles.
+
+En horarios no hábiles (lunes a viernes, después de las 5:00pm, sábados, domingos y festivos) no se debe permitir el ingreso de ningún tipo de material de construcción que no se encuentre previamente autorizado en la herramienta de Google Drive o mediante correo electrónico por parte del proceso de Infraestructura y Servicios. En caso de llegarse a reportar un ingreso dentro de los horarios definidos como no hábiles y no se logre validar dicha autorización, no se debe permitir el ingreso de los materiales, en tal caso, el proveedor debe revisar con la empresa instalada en la zona franca, para que esta gestione la autorización correspondiente por parte del proceso de Infraestructura y Servicios del Usuario Operador.
+5.4.2.	Salida de escombros y materiales similares.
+
+Para el caso en que se presenta la salida de los siguientes materiales, se deberá informar al proceso de Infraestructura y Servicios mediante correo electrónico al Coordinador Técnico, el Analista Sénior de Proyectos y Mantenimiento y Analista de Mantenimiento una vez realice su reporte el conductor del vehículo en la báscula de salida o la báscula asignada para tal fin. El correo electrónico deberá contener: el nombre del usuario, nombre de la persona que autoriza la salida por parte del Usuario Calificado o Autorizado, la descripción de los elementos o escombro a retirar, los datos del vehículo y el documento soporte escaneado.
+1.	Puertas.
+2.	Ventanas.
+3.	Sanitarios.
+4.	Lavamanos.
+5.	Transformadores.
+6.	Postes en concreto.
+7.	Mallas.
+8.	Tejas.
+9.	Estructuras metálicas.
+10.	Escombros.	
+FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN (FO-OP- 029)
+Google DRIVE. INSTRUCTIVO DE BÁSCULA
+ (IN-OP-001).
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5. INGRESO DE MERCANCÍAS BAJO OTRO TIPO DE
+CONTROLES DIFERENTES A FMM A USUARIOS CALIFICADOS, EMPRESAS DE APOYO, PROVEEDORES DE SERVICIOS Y CONTRATISTAS EN ZONA FRANCA.
+
+Analista de Operaciones Encargado.	
+De acuerdo con el Artículo 481 del Decreto 1165 de 2019– “Introducción de alimentos y otros”. No constituye exportación, la introducción a Zona Franca, proveniente del resto del Territorio Aduanero Nacional de materiales de construcción, combustibles, alimentos, bebidas y elementos de aseo, para su consumo o utilización dentro de la zona, necesarios para el normal desarrollo de las actividades de los usuarios y que no constituyan parte de su objeto social.
+Adicionalmente, el Usuario Operador ha definido las siguientes consideraciones frente a los bienes sobre los cuales se puede ejercer otro tipo de controles diferentes a la presentación de un formulario de movimiento de mercancía a través del sistema AMIGO/ AMIGO PRO, entre ellas:
+Activos e insumos propiedad de empresas de apoyo y proveedores de servicios de los usuarios calificados o autorizados, los cuales están sujetos a otro tipo de controles no sistematizados por parte del Usuario Operador.
+Cabe mencionar, que no aplica los criterios anteriores para el ingreso de un bien extranjero a la zona franca y se debe dar cumplimiento a la normatividad legal vigente. Asimismo, pese a que la autorización de ingreso de los bienes no será a través del diligenciamiento del formulario de movimiento de mercancía, el Usuario Operador realiza otro tipo de controles físicos y documentales en cumplimiento del procedimiento establecido en el manual de operaciones de la zona franca correspondiente para el ingreso de bienes procedentes del Territorio Aduanero Nacional y sin perjuicio de la obligación del usuario operador de garantizar el control y la verificación de estas operaciones por parte de la autoridad aduanera.
+Por otra parte, para aquellos bienes que por su condición tributaria sean exentos o excluidos del impuesto al valor agregado sobre las ventas (IVA), se debe contar con el soporte normativo dentro del documento de ingreso donde conste tal condición.
+
+Para los casos en que se presente el ingreso de este tipo de elementos con controles diferentes al aplicativo AMIGO / AMIGO PRO, deben presentar al Analista de Operaciones encargado, una remisión, factura comercial o documento de ingreso consignado a un usuario calificado, empresa de apoyo, proveedor de servicios y contratista, donde se indique la descripción de la mercancía y cantidades que ingresan a la Zona Franca.
+El usuario calificado, empresa de apoyo, proveedor de servicios o contratistas podrán notificar sobre el ingreso de este tipo elementos mediante de correo electrónico o documento físico, informando sus características, su finalidad y certificando que estos bienes que ingresan o se retiran del área declarada como zona franca no hagan parte del desarrollo del objeto social, la actividad calificada del usuario y fueron adquiridos con el impuesto al valor agregado sobre las ventas -IVA. a la Portería 1, con el objetivo de la facilitar su identificación por parte del Analista de Operaciones.
+Para el caso de ingreso de mercancía de propiedad de un contratista, se deberá tener en cuenta que la remisión, factura comercial o documento de ingreso debe tener como destinatario un usuario calificado o autorizado, pese a que los materiales o elementos sean propiedad del tercero.
+Para el caso de de la Zona Franca Palmaseca, el Analista de Operaciones registrará el contenido del formato y demás documentos soporte en la herramienta de REGISTRO DE INGRESO Y SALIDA MERCANCÍAS (NO CONTROLADOS POR APLICATIVO AMIGO) A USUARIOS CALIFICADOS, EMPRESAS DE APOYO, PROVEEDORES DE SERVICIOS Y CONTRATISTAS EN ZONA FRANCA PALMASECA en Google Drive.
+Una vez revisada y registrada la información, el Analista de Operaciones encargado autorizará el ingreso de este tipo de elementos e informará al proceso de seguridad para autorizar el ingreso y salida de la zona franca.
+Nota: En ninguno de los casos, este tipo de mercancías debe relacionarse con el objeto social del usuario calificado o autorizado, de lo contrarío, el Analista de Operaciones en Portería 1 deberá exigir el diligenciamiento del FMM.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive.
+
+Correo Electrónico.
+
+
+6.	DOCUMENTOS DE REFERENCIA.
+
+
+
+6.1.	DOCUMENTOS EXTERNOS:
+
+  Decreto 1165 del 02 de julio de 2019
+  Decreto 278 del 21 de marzo de 2021.
+  Resolución 000046 de 2016.
+
+6.2 DOCUMENTOS INTERNOS:
+
+  MATRIZ DE TRANSACCIONES
+  INSTRUCTIVO DE BÁSCULA - IN-OP-001
+  CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027   FORMATO DE INGRESO Y SALIDA DE MATERIALES DE CONSTRUCCIÓN - FO-OP-029
+  INSTRUCTIVO DE PATIOS (IN-OP-003)
+
+FECHA DE EMISIÓN: 01/08/2012
+
+ELABORÓ	REVISÓ Y APROBÓ
+
+John Alexander Pareja García
+Analista Sénior de Aseguramiento	
+Ayda Mercedes Angulo Soto
+Director de Operaciones
+
+Jeniffer Garzón Fuentes @ 2025-05-07, 8:37:05

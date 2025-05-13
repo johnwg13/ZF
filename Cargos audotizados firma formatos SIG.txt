@@ -1,0 +1,1449 @@
+
+ 
+
+
+ 	
+INSTRUCTIVO VERIFICACIÓN Y CIERRE DE TRÁNSITOS ADUANEROS
+	
+CÓDIGO:
+
+IN-OP-005	
+VERSIÓN:
+
+014	
+FECHA DE ACTUALIZACIÓN:
+
+2023-12-28
+
+1.	OBJETIVO
+
+Registrar y finalizar en los Sistemas Informáticos Electrónicos de la DIAN la información correspondiente a los tránsitos Aduaneros y las Solicitudes de Autorización de Embarque que ingresen a la Zonas Francas Permanentes y Permanentes Especiales operadas por la Zona Franca Palmaseca Usuario Operador, aplicando los controles de verificación física correspondiente a las mercancías descargadas en las instalaciones del usuario calificado o autorizado.
+2.	ALCANCE
+
+Este instructivo va desde el ingreso del vehículo de carga a las Zonas Francas Permanentes y Permanentes Especiales operadas por la Zona Franca Palmaseca Usuario Operador, hasta la salida de éste, incluyendo la inspección que se le hace a las mercancías al momento del descargue y sus respectivas planillas de recepción y acta de inconsistencias en el Aplicativo AMIGO/ AMIGO PRO cuando haya lugar, manifiesto de carga, planilla de recepción, aviso del llegada y planilla en los Sistemas Informáticos de la DIAN.
+3.	CAMBIOS
+
+De la versión 13 a la versión 14
+Se modifica la redacción del objetivo del instructivo.
+
+Se incorpora una nota en el numeral 5.1.1. INGRESO DE VEHICULO O UNIDAD DE CARGA A LA BASCULA DE INGRESO relacionado con las inconsistencias en los consecutivos o número de precintos y/o dispositivo de trazabilidad de la carga.
+
+Se cambia el nombre del numeral 5.1.2 de dispositivo electrónico por dispositivo de trazabilidad de la carga.
+  Se elimina el numeral 5.3.3. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITOS ADUANEROS AL USUARIO AUTORIZADO PAPELES DEL CAUCA S.A y se modifica la
+numeración en adelante.
+  Se realiza el ajuste del titulo del numeral 5.4 y se registra como PROTOCOLO DE COMUNICACIÓN DIAN, ENVÍO DE REPORTE A LAS ADUANAS DE PARTIDA, Y ACTIVIDADES POR FALLAS O CONTINGENCIA EN LOS SIE.
+  Se incorpora lo relacionado con el protocolo de comunicación DIAN en el numeral 5.4.1.
+  Se incorpora lo relacionado con las actividades de contingencia del SIE SIGLO XXI en el numeral 5.4.5   Se modifica lo relacionado con el archivo documental de DTA Y SYGA en el numeral 5.5.5.
+De la versión 12 a la versión 13
+
+  Se actualiza la actividad 5.1. OPERACIONES DESDE EL RESTO DEL MUNDO Y OTRAS ZONAS FRANCAS CON DESTINO A ZONAS FRANCAS QUE AMPARAN MERCANCIAS EN
+TRANSITO ADUANERO. se estructura el proceso del documento en tres partes.
+  Se actualiza la actividad 5.2. INGRESO DE MERCANCIAS DESDE EL TERRITORIO ADUANERO NACIONAL – EXPORTACIÓN (SOLICITUD DE AUTORIZACIÓN DE EMBARQUE). se
+estructura el proceso del documento en tres partes.
+  Se actualiza la actividad 5.3. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO ADUANERO Y SOLICITUDES DE AUTORIZACION EMBARQUE AL USUARIO CALIFICADO O
+AUTORIZADO Y A LA DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES (DIAN). se especifica la ruta fotográfica de la zona franca palmaseca.
+  Se actualiza la normatividad vigente.
+
+De la versión 11 a la versión 12
+
+  Se actualiza la actividad 5.2.1. ENTREGA DE DOCUMENTOS POR BÁSCULA. Nota aclaratoria para la zona franca de palmaseca del manejo de precintos satelitales con el proceso de seguridad, se amplia para el analista de báscula la actividad ya que no a todas las zonas francas les aplica la particularidad.
+De la versión 10 a la versión 11
+
+  Se elimina la actividad del reporte de salidas de mercancía con destino a Buenaventura.   Se cambia la numeración de las actividades
+  Se actualiza la normatividad del documento
+  Se elimina el Advertencia! : document index (10) not found in active documents   Se actualiza el punto 2 ALCANCE.
+  Se actualiza el nombramiento de la actividad y su redacción 5.1.2. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO AL USUARIO Y AL ENTE DE CONTROL DIAN
+  Se actualiza la actividad 5.1.3. GENERALIDADES eliminando el recorrido externo a las bodegas del usuario, esta actividad está a cargo del Inspector de Operaciones   Se cambia el nombramiento de la actividad 5.1.4. ENTREGA DE TURNO, se cambia el nombre de la zona franca OLMUE por proterra,
+  Se elimina la actividad 5.1.8 VERIFICACIÓN A LOS PROCESOS PARCIALES, esta pasa hacer delegada por el supervisor o coordinador de operaciones al analista disponible en la operación.
+  Se cambia el nombramiento del numeral 5.2. INGRESO DE MERCANCIAS DESDE EL RESTO DEL MUNDO CON CABOTAJE, DUTA O PLANILLA DE ENVIO.
+  Se actualiza el nombramiento de la actividad y su redacción 5.2.1. ENTREGA DE DOCUMENTOS POR BÁSCULA.. en su redacción, se incluye el protocolo de comunicación DIAN   Se actualiza la actividad de 5.2.2. RECEPCIÓN Y REVISIÓN DE DOCUMENTOS.
+  Se actualiza la actividad de 5.2.4. REGISTRO DE LA PLANILLA DE RECEPCIÓN E INCONSISTENCIAS SI APLICA. en su redacción
+  Se adiciona dentro las actividades el documento único de transporte aduanero (DUTA) y se cambia el nombramiento de la actividad 5.2.5. REGISTRO EN EL SISTEMA INFORMÁTICO DE LA DÍAN (SYGA Y MUISCA).
+  Se elimina actividad 5.2.6. ENTREGA DE LOS DOCUMENTOS AL USUARIO, esta es unificada con la actividad 5.1.2. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO AL USUARIO Y AL ENTE DE CONTROL DIAN
+  Se elimina la actividad 5.2.8. ENTREGA DE DOCUMENTOS A LA DÍAN esta es unificada con la actividad 5.1.2. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO AL USUARIO Y AL ENTE DE CONTROL DIAN
+  Se actualiza la redacción de la actividad 5.3.1. RECIBO DE SOLICITUD DE AUTORIZACIÓN DE EMBARQUE se incluye el INSTRUCTIVO DE BÁSCULA - IN-OP-001
+
+De la versión 9 a la versión 10
+
+  Se actualiza el punto 6 Documentos en Referencia
+  Se corrige redacción, se cambia cargo normalizador por supervisor de Operaciones.   Se relaciona numeración en las actividaes.
+  Se adiciona dentro de las actividades de control informe el cual se encontraba dentro del instructivo de báscula. 5.1.2 ENVIO REPORTE A LA DÍAN DE PLANILLAS DE ENVÍO CON DESTINO A TCBUEN Y SPRBUN (PUERTO)
+  Se actualiza la actividad 5.2.3. DESCARGUE DE LA MERCANCÍA EN LAS INSTALACIONES DEL USUARIO.
+
+De la versión 8 a la versión 9
+
+  Se elimina una actividad dentro de las actividades de control y se pasa al instructivo de bascula esta era, (envio de correo electronico Envío diario a la DIAN SPRBUN o TCBUEN de las planillas de envio).
+  Se actualiza la actividad verificación de listado autorizaciones de transitos pendientes por finalizar   Se actualiza la actividad de generalidades con la ruta de las carpetas de la toma fotografica.
+  Se actualiza la actividad 5.2.3. ENTREGA DE DOCUMENTOS AL USUARIO. haciendo referencia a los documentos que se deben entregar e imprimir   Se actualiza la actividad 5.1.4. REGISTRO DE LA PLANILLA DE RECEPCIÓN E INCONCISTENCIAS SI APLICA.
+  Se actualiza la actividad 5.1.3. DESCARGUE DE LA MERCANCÍA EN LAS INSTALACIONES DEL USUARIO.
+  se actualiza la actividad 5.1.7. FINALIZACIÓN DE MERCANCÍA DESDE EL AEROPUERTO O PLANILLA DE ENVÍO DESDE EL PUERTO DE BUENAVENTURA EN EL SISTEMA INFORMÁTICO ADUANERO DE LA DÍAN.
+
+
+
+4.	DEFINICIONES.
+ 
+Ver Glosario de Operaciones
+
+5.	DESCRIPCION DEL PROCESO.
+
+
+5.1. OPERACIONES DESDE EL RESTO DEL MUNDO Y OTRAS ZONAS FRANCAS CON DESTINO A ZONAS FRANCAS QUE AMPARAN MERCANCIAS EN TRANSITO ADUANERO.
+
+ACTIVIDADES	
+DESCRIPCIÓN	
+REGISTRO
+ 
+
+
+5.1.1. INGRESO DE VEHICULO O UNIDAD DE CARGA A LA BASCULA DE INGRESO.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+El Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado en Zona Franca Palmaseca recibe la documentación correspondiente al Tránsito Aduanero que ampara la mercancía que ingresa desde el resto del mundo (R.M.) del Analista de Operaciones de Bascula de Ingreso, mientras que el Analista de Operaciones en Bascula de Ingreso en Zona Franca Conjunto Industrial Parque Sur los recibe directamente del Conductor; en ambos casos revisara que los documentos estén completos y correctamente consignados o endosados al usuario calificado, teniendo en cuenta los diferentes tipos de documentación que pueden presentarse, como se observa en la Figura 1:
+
+ 
+
+Figura 1. Opciones de documentación que pueden presentarse en el ingreso de mercancía desde el R.M. a Zona Franca.
+
+También el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado tanto en Zona Franca Palmaseca o Conjunto Industrial Parque Sur revisaran que el preingreso creado en el aplicativo AMIGO se encuentre correctamente diligenciado acorde a los documentos físicamente presentados por el conductor. Teniendo en cuenta los siguientes puntos:
+
+Documento de transporte original consignado o endosado a favor del usuario calificado o autorizado ya sea físico o digital.
+El número del documento de transporte deberá coincidir con el número que tiene el transito aduanero, dependiendo del tipo de documentos que corresponda según la Figura 1.
+Verificar la fecha de autorización y la fecha de su manifiesto.
+Revisar la factura comercial, cuando aplique en la operación.
+En Zona Franca Palmaseca y Zona Franca Conjunto Industrial Parque Sur el Analista de operaciones en DTA y SYGA o el Analista de Operaciones encargado procederá a verificar que la información relacionada en los documentos soportes del Tránsito Aduanero correspondan a las físicamente presentadas en Bascula de Ingreso y realizará el respectivo registro fotográfico:
+
+Placa.
+Contenedor (Si aplica). Remolque.
+Sellos de alta seguridad. Sellos de seguridad.
+Sellos indicativos.
+Sellos o precintos electrónicos.
+
+El Analista de operaciones en DTA y SYGA o el Analista de Operaciones encargado procederá a verificar además que la información corresponda, revisara la integridad física de la unidad de carga, dispositivos de seguridad y contenedores, con el objetivo de detectar si han sido vulnerados, antes de ingresar al área declarada como Zona Franca.
+
+En el caso que se detecte una vulneración en los sellos de seguridad, dispositivo electrónico, contenedores y/o demás unidades de carga, el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado informara por medio del Radio Portátil al Guarda de Seguridad Encargado.
+
+Nota: Si por el contrario, se detectan inconsistencias en los números o consecutivos de los precintos y/o el dispositivo de trazabilidad de la carga físicos vs lo registrado en los documentos sin que esto signifique una adulteración o vulneración a la seguridad de la carga, se debe registrar la inconsistencia al momento de generar el aviso de llegada y emitir el acta de inconsistencias correspondiente a través del SIE MUISCA, posteriormente autorizar el ingreso del vehículo a las instalaciones del usuario calificado y permitir el descargue de la mercancía, dando continuidad a la operación.
+
+Nota: En Zona Franca Palmaseca, para los casos en que por la altura donde se encuentren instalados los sellos de seguridad, sellos indicativos o precintos electrónicos; el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado informara por medio del Radio Portátil al Guarda de Seguridad Encargado en la puerta de bascula de ingreso de la Zona Franca la situación, y este en colaboración con el sistema de circuito cerrado de televisión (C.C.T.V.) enviara a los correos electrónicos de: dtazfp@zonafrancapalmaseca.com.co	y syga@zonafrancapalmaseca.com.co el registro fotográfico del sello que no se pudo observar claramente en primera instancia.	
+INSTRUCTIVO DE COMUNICACION Y EMERGENCIAS ANTE SITUACIONES SOSPECHOSAS IN-SE-002.
+
+Aplicativo AMIGO.
+
+INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP- 003.
+
+Correo electrónico.
+
+CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027
+INSTRUCTIVO DE BÁSCULA - IN-OP-001 INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-
+003
+
+ 
+
+	En los casos en que se detecte que en la unidad de carga o contenedor del tránsito aduanero se presente vulnerada la integridad de los dispositivos o sellos de seguridad de botella o electrónico y unidades de carga a una de las Zonas Francas Permanentes y Permanentes Especiales operadas por la Zona Franca Palmaseca, deberá informarse al Grupo Interno de Trabajo de la DIAN en la Zona Franca que corresponda, aduana de partida, aduana de destino y al supervisor de seguridad encargado en las Zonas Francas Permanentes. Mediante correo electrónico para que personal de la DIAN determine cómo se llevará a cabo el proceso de apertura o desprecinte de la unidad de carga.
+
+Para los casos en que en Zona Franca Palmaseca o Zona Franca Conjunto Industrial Parque Sur, el Analista de Operaciones encargado requiera detener unidades de carga en la bahía interna de inspección, informará por medio del Radio Portátil al Vigilante del esquema de Seguridad Encargado, como se indica en el INSTRUCTIVO DE COMUNICACIÓN Y EMERGENCIAS ANTE SITUACIONES
+SOSPECHOSAS IN-SE-002 que la unidad de carga correspondiente, pernoctara en bahía interna y no deberá desplazarse de dicha área hasta que la DIAN determine cuando y como proceder en esta situación. Para las Zonas Franca Permanentes Especiales, el Analista de Operaciones encargado informará la situación al personal encargado del usuario autorizado, el cual, deberá disponer del espacio, seguridad y facilidades necesarias para que la autoridad aduanera pueda llevar a cabo el proceso de apertura o desprecinte de la unidad de carga según lo determinen.En los casos en que se detecte que la unidad de carga o contenedor del tránsito aduanero llegue en seguimiento por parte de la DIAN a una de las Zonas Francas Permanentes y Permanentes Especiales operadas por la Zona Franca Palmaseca, deberá informarse al Grupo Interno de Trabajo de la DIAN en la Zona Franca que corresponda, aduana de partida y aduana de destino. Mediante correo electrónico para que personal de la DIAN determinen en que momentos del proceso de apertura, desembalaje o reconocimiento de la mercancia hacer presencia.
+
+El Analista de Operaciones encargado, utilizara la bahía interna de inspección de Zona Franca Palmaseca y Zona Franca Conjunto Industrial Parque Sur según sea el caso, para almacenar las unidades de carga, llenas y vacías, ya que es un área segura de control del usuario operador donde se impide el acceso y/o manipulación no autorizada, a aquellas unidades de carga que presenten novedades o discrepancias documentales, vulneraciones en sellos o mercancía en seguimiento por parte de la autoridad aduanera.
+
+Por otro lado, Cuando esta situación suceda en las Zonas Francas Permanentes Especiales, se deberá coordinar con el usuario calificado la detección de la operación hasta que la DIAN determine como se llevara a cabo el proceso de apertura o desprecinte de la unidad de carga.
+
+Para los casos en que la mercancía venga amparada por el Documento Único de Transito Aduanero (D.U.T.A.), cuando el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado hayan finalizado el registro de ingreso en el aplicativo AMIGO y el registro fotográfico de las evidencias, procederá a realizar el diligenciamiento del aviso de llegada en los Sistemas Informáticos Aduaneros de la DIAN, en este caso en la plataforma MUISCA. Donde el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado registraran toda la información evidenciada en la recepción de la unidad de carga y la integridad de las mismas. Posterior a esto, se le indicara al conductor que se dirija a las instalaciones del usuario calificado para continuar el proceso de desprecinte o apertura del contenedor o unidad de carga.
+
+El Analista de Operaciones en Patios o Analista de Operaciones encargado, será el responsable de recibir los Tránsitos Aduaneros que amparen vehículos, desde el recibo de la documentación de parte del Analista de Operaciones en Báscula de Ingreso, para los casos en que aplique, hasta el descargue y conteo de la mercancía. Finalmente, el Analista de Operaciones en Patios o Analista de Operaciones encargado entregara la documentación soporte al Analista de Operaciones en DTA y SYGA, para que continúe con el proceso de finalización de la operación en el aplicativo AMIGO y en los Sistemas Informáticos Aduaneros de la DIAN. Acorde a los establecido en el INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-003
+
+Nota : Para el caso de los tránsitos aduaneros que amparen vehículos, la documentación soporte correspondiente a la operación la entrega personal del usuario calificado directamente al Analista de Operaciones de Patios o al Analista de Operaciones encargado.
+
+En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado recibirá la documentación correspondiente al Tránsito Aduanero que ampara la mercancía que ingresa desde el resto del mundo (R.M.) del Conductor en la Báscula, este revisará que los documentos estén completos y correctamente consignados o endosados al usuario calificado. Dicho Analista de Operaciones se encargará de realizar el proceso de inspección, verificación y registro fotográfico del vehículo o unidad de carga en báscula destinada para el proceso de ingreso al usuario autorizado.	
+ 
+
+
+
+
+
+
+
+
+5.1.2. DISPOSITIVOS DE TRAZABILIDAD DE LA CARGA
+
+Analista de Operaciones de DTA y SYGA. Analista de Operaciones Encargado.	
+En las Zonas Francas Operadas por la Zona Franca Permanente Palmaseca S.A., no se controla el almacenamiento, acceso, distribución, registro de uso y cambio de los dispositivos de trazabilidad de la carga, esta actividad es controlada por el usuario calificado o autorizado de la Zona Franca que corresponda.
+Para el caso de los dispositivos electrónicos, el Analista de Operaciones encargado es responsable de identificar que la unidad de carga tenga sello electrónico instalado y dejar los registros fotográficos y escritos del mismo. Como se detalla en las actividades 5.1.1. INGRESO DE VEHICULO O UNIDAD DE CARGA A LA BASCULA DE INGRESO y 5.1.2. APERTURA O DESPRECINTE DE LA UNIDAD DE CARGA,
+del presente documento.	
+
+
+
+
+
+
+
+
+
+Registro Fotográfico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.3. APERTURA O DESPRECINTE DE LA UNIDAD DE CARGA.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Una vez el vehículo o unida de carga correspondiente se encuentre en las instalaciones del usuario calificado, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado se dirigirá al área calificada del usuario calificado para el proceso de apertura, donde deberá verificar nuevamente que la información relacionada en los documentos soportes del Tránsito Aduanero correspondan a las físicamente presentadas. Cuando el Analista de Operaciones identifique que la información corresponde autorizara al personal del usuario calificado para realizar la apertura de la unidad de carga o contenedor y deberá dejar registro fotográfico del proceso donde se evidencie lo siguiente:
+
+Apertura de la unidad de carga. Tipo de mercancía que arribo. Tipo de embalaje de la mercancía.
+Irregularidades que se presenten en el tipo de embalaje de la mercancía.
+Revisará que la mercancía que se descargue corresponde a lo declarado en la documentación soporte del tránsito aduanero.
+
+En los casos que, en medio del procedimiento de apertura y desembalaje de las unidades de carga, se detecte irregularidades tales como: hallazgos de divisas, armas, estupefacientes, narcóticos, mercancía de prohibida importación el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado informará por medio del Radio Portátil al Coordinador de Operaciones y Guarda de Seguridad más cercano a su ubicación, reportando la situación de acuerdo INSTRUCTIVO DE COMUNICACIÓN Y EMERGENCIA ANTE SITUACIONES SOSPECHOSAS - IN- SE-002.
+
+El Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado relacionara todo lo que se detecte en el proceso de apertura o desprecinte en el ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP-044.
+
+En las Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado recibirá la documentación correspondiente al Tránsito Aduanero que ampara la mercancía que ingresa desde el resto del mundo (R.M.) del Conductor en la Báscula, este revisará que los documentos estén completos y correctamente consignados o endosados al usuario calificado. Dicho Analista de Operaciones se encargará de realizar el proceso de inspección, verificación y registro fotográfico del vehículo o unidad de carga en báscula destinada para el proceso ingreso al usuario autorizado.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIVO DE COMUNICACION Y EMERGENCIAS ANTE SITUACIONES SOSPECHOSAS IN-SE-002.
+
+Aplicativo AMIGO. Correo electrónico.
+CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027
+INSTRUCTIVO DE BÁSCULA - IN-OP-001 INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-
+003
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.4. CONTEO, RECONOCIMIENTO E INSPECCIÓN FÍSICA DE LA MERCANCÍA.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Una vez descargada la mercancía en las instalaciones del usuario calificado, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado procede a realizar el reconocimiento, conteo e inspección física de la mercancía, teniendo en cuenta las siguientes consideraciones:
+
+El Analista de Operaciones en DTA y SYGA o Analista de Operaciones designado contará con los implementos de seguridad industrial necesarios para llevar cabo su labor de inspección de descargue de las mercancías en las instalaciones de los usuarios calificados, y acatará las normas de seguridad industrial establecidas.
+El usuario calificado o autorizado deberá poseer un área de descargue idónea, que comprendan las medidas de seguridad apropiadas para mantener la integridad de los contenedores y demás unidades de carga en durante el descargue de la mercancía.
+El reconocimiento de la mercancía se deberá realizar con el acompañamiento de un funcionario del usuario calificado o autorizado,
+Deberá velar por la integridad de la mercancía que sea objeto de verificación teniendo la mayor precaución de no dañarla o causar algún deterioro de la misma.
+Que la mercancía esté amparada y no se presenten adulteraciones en el documento de Tránsito Aduanero.
+Que no existan inconsistencias entre los datos consignados en el documento de Tránsito Aduanero y la mercancía recibida.
+Que no se presenten irregularidades en los empaques y embalajes.
+
+Cuando el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado detecte una de las siguientes situaciones, informara al Grupo Interno de Trabajo de la DIAN en la Zona Franca que corresponda, mediante correo electrónico para que DIAN determine como se llevara a cabo la actuación de inspección de parte de ellos:
+
+Diferencia en Bultos (Sobrantes o faltantes). Mercancía diferente a la amparada en el documento de transito aduanero que haya lugar. Excesos o defectos sobre la tolerancia del 5 % en el peso de la carga.
+
+Sin embargo, si en el proceso de reconocimiento y conteo de la mercancía se detectan irregularidades o actividades sospechosas tales como sustracción de mercancía o adulteración de la misma, así como el hallazgo de divisas, armas, estupefacientes, narcóticos, mercancía de prohibida importación y exportación el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado informara por medio del Radio Portátil al Coordinador de Operaciones y Guarda de Seguridad más cercano a su ubicación reportando la situación de acuerdo con el INSTRUCTIVO DE COMUNICACIÓN Y EMERGENCIAS ANTE SITUACIONES SOSPECHOSAS - IN-SE-002.
+
+Cada evidencia que sea detectada deberá quedar relacionada en el ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP-044. En lo que respecta al peso documental, dispositivos de trazabilidad aduanera, números de contenedores, marcas, conteo de piezas, descripción de la mercancía tal como lo solicita el formato.
+
+Nota: Para los casos en que se detecten discrepancias e irregularidades en el embalaje de la mercancía, tales como: Cajas húmedas, rotas o abolladas. El Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, realizara el debido reporte en los sistemas informáticos de la DIAN (MUISCA). Y en los reportes de finalización de la operación del aplicativo AMIGO, como se relaciona en las actividades 5.1.4. REGISTRO DE LA PLANILLA DE RECEPCIÓN E INCONCISTENCIAS EN APLICATIVO AMIGO y 5.1.5. FINALIZACION DE PLANILLAS DE ENVIO DE AEROPUERTO Y BUENAVENTURA EN EL SISTEMA INFORMATICO ADUANERO DE LA DIAN (MUISCA).
+
+Una vez terminado el procedimiento de conteo e inspección física de la mercancía, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado, procederá a realizar la finalización de la operación con el registro de la planilla de inconsistencias cuando aplique y la respectiva planilla de recepción en el aplicativo AMIGO.
+
+En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado realizara la coordinación de la verificación de descargue de la mercancía con el usuario autorizado que corresponda.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIVO DE COMUNICACION Y EMERGENCIAS ANTE SITUACIONES SOSPECHOSAS IN-SE-002.
+Aplicativo AMIGO.
+
+INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-003.
+Correo electrónico.
+
+CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027
+INSTRUCTIVO DE BÁSCULA - IN-OP-001 INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-003
+ 
+
+
+5.1.5. REGISTRO DE LA PLANILLA DE RECEPCIÓN E INCONCISTENCIAS EN APLICATIVO AMIGO.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Una vez la mercancía haya sido inspeccionada y contabilizada con personal del usuario calificado, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado procederá a registrar en el aplicativo AMIGO la planilla de inconsistencias cuando aplique, y la planilla de recepción del tránsito aduanero, para constatar en el aplicativo AMIGO la finalización de la operación.
+
+El Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado deberá tener en cuenta los siguientes puntos para realizar la planilla de recepción y planilla de inconsistencia en el aplicativo AMIGO cuando así se requiera:
+
+Que la entrega de la mercancía se produzca dentro de los términos establecidos por la Aduana de Partida.
+Que la mercancía objeto del régimen de tránsito aduanero no sea entregada con diferencias de peso o cantidad, frente a lo consignado en la Declaración de Tránsito Aduanero. Se admitirán diferencias en peso de acuerdo con el margen de tolerancia establecido en el Decreto 1165 del 2019 [Ministerio de Hacienda y Orden Público]. Por la cual se dictan disposiciones relativas al régimen de aduanas en desarrollo de la Ley 1609 de 2013. Artículo 153. 2 de Julio del 2019. Que relaciona la tolerancia permitida del +/- 5
+%.
+Que los medios de transporte y las unidades de carga sean las mismas autorizadas por la Aduana de Partida. En caso contrario, deberá verificar los documentos que haya emitido la autoridad aduanera, los cuales deben avalar el cambio de medio de transporte o unidad de carga.
+Que se encuentre diligenciado el ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-
+OP-044 como evidencia del desprecinte y el reconocimiento físico de la mercancía amparada en los tránsitos y descargue de la mercancía en las instalaciones del usuario.
+Presenciará el descargue y verificará el estado de la mercancía, que no existan inconsistencias entre los datos consignados en el documento de tránsito aduanero y la mercancía recibida correspondientes a la inspección de la mercancía.
+
+Después de tener presente las anteriores consideraciones, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado darán clic en la casilla   en el preingreso registrado en el aplicativo AMIGO correspondiente al tránsito aduanero al que se le va a realizar el acta de inconsistencias y la planilla de recepción. Posteriormente, el aplicativo AMIGO solicitara el diligenciamiento de la siguiente información que se muestra a continuación en la Imagen 1 resaltada en color rojo:
+
+ 
+
+Imagen 1. Imagen del Aplicativo AMIGO de registro previo de acta de inconsistencias y planilla de recepción.
+
+Como se evidencia en la Imagen 1, el aplicativo AMIGO relaciona la información correspondiente al usuario calificado, unidades de carga, fecha y hora de arribo a Zona Franca y el documento de transporte que corresponde al tránsito aduanero que se va realizar el registro de finalización de la operación, adicionalmente a estos datos el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado diligenciara:
+Numero de manifiesto de carga. Fecha de manifiesto de carga. Descripción de mercancía.
+Administración de aduana de partida. Puerto de partida.
+
+Finalmente, con dicha información relacionada correctamente el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado dará clic en el botón   , y en el siguiente cuadro del aplicativo AMIGO, en la Imagen 2, se deberá registrar la información documental correspondiente al Peso Bruto y la Cantidad Documental que reporta el documento de transito aduanero autorizado desde la aduana de partida:
+
+ 
+	
+INSTRUCTIVO DE COMUNICACION Y EMERGENCIAS ANTE SITUACIONES SOSPECHOSAS IN-SE-002.
+Aplicativo AMIGO. Correo electrónico.
+CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027
+INSTRUCTIVO DE BÁSCULA - IN-OP-001 INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-
+003
+
+ 
+
+	Imagen 2. Imagen del Aplicativo AMIGO de registro de peso y cantidades documentales previo de acta de inconsistencias y planilla de recepción.
+
+Posteriormente, en el aplicativo AMIGO se debe diligenciar la información correspondiente que se observa en la Imagen 3:
+
+Tipo de Vehículo: Carrotanque, contenedor, furgón, isotanque, niñera, cama baja, planchón o si corresponde a un vehículo rodado.
+Numero: Si es contenedor, se diligenciará la identificación del contenedor.
+Precintos: Se diligenciará los sellos de seguridad que fueron recibidos.
+Peso: Corresponde al peso bruto de la mercancía recibida en instalaciones del usuario calificado.
+Cant. Bascula: Corresponde a las cantidades contabilizadas en el proceso de reconocimiento e inspección física de la mercancía.
+Placa: La identificación de la unidad de carga.
+
+ 
+
+Imagen 3. Imagen del Aplicativo AMIGO de registro de peso y cantidades recibidas en Zona Franca previo de acta de inconsistencias y planilla de recepción.
+
+Una vez registrada la información anterior, se procederá con el proceso del registro del acta de inconsistencias y la planilla de recepción en el aplicativo AMIGO, de la siguiente forma como se muestra en la Imagen 4:
+
+ 
+
+Imagen 4. Imagen del Aplicativo AMIGO para el diligenciamiento del acta de inconsistencias de transito aduanero.
+
+Para el caso del acta de inconsistencias, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado deberán reunir toda la información y evidencias del proceso de ingreso, apertura, descargue y reconocimiento de la mercancía. Donde tendrá en cuenta las siguientes observaciones de la Imagen 5 para el correcto registro del acta:
+
+ 
+
+Imagen 5. Imagen del Aplicativo AMIGO para el diligenciamiento de las inconsistencias evidenciadas de transito aduanero.
+
+Si algunas de las opciones presentadas en la Imagen 5 sucedieron en el proceso de ingreso, apertura, descargue y reconocimiento de la mercancía, deberá quedar registrada como acta de inconsistencia en el aplicativo AMIGO. Acto seguido al diligenciamiento del acta anterior, se procederá al registrar la planilla de recepción en el aplicativo AMIGO, dando clic en el botón   como se muestra en la Imagen 6:
+
+ 
+
+Imagen 6. Imagen del Aplicativo AMIGO para el diligenciamiento de la planilla de recepción del tránsito aduanero.
+
+Después de seleccionar la opción anterior, el aplicativo AMIGO relacionara toda información registrada en el preingreso que corresponde al tránsito aduanero, como se observa en la Imagen 7, así como: el documento de transporte, tipo de unidad de carga, identificación de los medios de transporte, peso bruto de la mercancía, cantidad de la mercancía recibida, identificación de sellos de alta seguridad, indicativos y precintos electrónicos, empresa transportadora y por último el Analista de Operaciones de Zona Franca que realiza el registro de la planilla de recepción del aplicativo AMIGO.
+
+ 
+
+Imagen 7. Imagen del Aplicativo AMIGO para el diligenciamiento de la planilla de recepción de transito aduanero.	
+ 
+
+	En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado realizara el registro de finalización de la modalidad de transito aduanero en el aplicativo AMIGO y en los sistemas informáticos de la DIAN.
+
+Nota : El acta de inconsistencias y la planilla de recepción del Aplicativo AMIGO, son los soportes de finalización de la operación de Zona Franca Palmaseca como usuario operador. Deberán quedar como soportes en el formulario de movimiento de mercancías que corresponda.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.6. FINALIZACION DE PLANILLAS DE ENVIO DE AEROPUERTO Y BUENAVENTURA EN EL SISTEMA INFORMATICO ADUANERO DE LA DIAN (MUISCA).
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Con la documentación del tránsito aduanero que corresponde a las planillas de envió de aeropuerto o de Buenaventura el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, procederá a realizar las planillas de recepción en el sistema informático de la DIAN (MUISCA), comprobando así, que la operación finalizo. Teniendo en cuenta lo siguiente previamente:
+
+Se revisará que el preingreso registrado en el aplicativo AMIGO se encuentre correctamente diligenciado.
+Que se cuente con el Documento de transporte original consignado o endosado a favor del usuario calificado o autorizado, ya sea digital o físico.
+Que la planilla de recepción y el acta de inconsistencias del aplicativo AMIGO se encuentres diligenciadas.
+Que la evidencia del proceso de la verificación documental y las cantidades a recibir queden registradas en el ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP-044.
+
+Una vez que las consideraciones anteriores se hayan tenido en cuenta, el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado registrara en el sistema informático aduanero de la DIAN, en este caso MUISCA, la información en la siguiente secuencia:
+1.	Seleccionara en la plataforma de la DIAN mencionada el consecutivo de Planilla de envío, a la cual, se le registrara la correspondiente finalización de la operación.
+2.	Posteriormente a la selección anterior, se procede a diligenciar la fecha y hora de recepción de la mercancía correspondiente.
+3.	Una vez seleccionada la fecha y hora de recepción de la mercancía, se debe diligenciar las cantidades y pesos descargados en las instalaciones del usuario calificado o autorizado.
+4.	En la plataforma de la DIAN, se destinará una casilla para ampliar la información y los detalles del proceso de recepción, descargue y reconocimiento de la mercancía.
+5.	Una vez registrada dicha información en el sistema informático de la DIAN, este validara los datos declarados contra los recibidos y generara el acta de inconsistencias y la planilla de recepción correspondientes, dando como culminada la finalización del tránsito aduanero
+6.	Finalmente, se imprimirán los soportes de finalización de la operación del aplicativo AMIGO y las planillas de recepción del sistema informático de la DIAN.
+
+En Zona Franca Palmaseca, el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, organizara el paquete de documentos soportes que corresponden al tránsito aduanero finalizado en los sistemas informáticos de la DIAN, y realizara la entrega al personal autorizado del usuario calificado.
+
+En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado realizara el registro de finalización de la modalidad de transito aduanero en el aplicativo AMIGO y en los sistemas informáticos de la DIAN.
+
+Nota: Cuando el transito aduanero arribe a la Zonas Francas Permanentes y Permanentes Especiales dentro de los términos establecidos por la DIAN, pero el registro de finalización se realice después de la fecha autorizada se deberá adjuntar a los documentos soportes del tránsito aduanero el pantallazo del preingreso realizado en bascula, como evidencia de que la mercancía llego dentro de los términos establecidos por la Resolución 000046 del 2019 [Dirección de Impuestos y Aduanas Nacionales (DIAN)]. Por la cual se reglamenta el Decreto 1165 del 2 de julio de 2019. 26 de Julio del 2019.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP- 044.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.7. FINALIZACION DE DOCUMENTOS UNICOS PARA EL TRANSITO ADUANERO EN EL SISTEMA INFORMATICO
+ADUANERO DE LA DIAN (MUISCA).
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Con la documentación del tránsito aduanero que corresponde al Documento Único de Transito Aduanero (D.U.T.A.) el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, procederá a realizar las planillas de recepción en el sistema informático de la DIAN (M.U.I.S.C.A.), reportando la finalización de la operación. Teniendo en cuenta lo siguiente previamente:
+
+Se revisará que el preingreso registrado en el aplicativo AMIGO se encuentre correctamente diligenciado.
+Que se cuente con el Documento de transporte original consignado o endosado a favor del usuario calificado o autorizado, ya sea digital o físico.
+Que se haya realizado correctamente el diligenciamiento del Aviso de Llegada en los sistemas informáticos de la DIAN (MUISCA).
+Que la planilla de recepción y el acta de inconsistencias del aplicativo AMIGO se encuentres diligenciadas.
+Que la evidencia del proceso de ingreso, apertura y descargue de mercancía haya quedado registrado en el ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO- OP-044.
+
+Posterior a esto, el Analista de Operaciones de DTA y SYGA o Analista de Operaciones encargado deberá, en primer lugar, registrar en el sistema informático aduanero de la DIAN, en este caso MUISCA, la información en la siguiente secuencia:
+1.	Seleccionar en la plataforma de la DIAN mencionada el consecutivo de DUTA, al cual, se le registrara la correspondiente finalización de la operación.
+2.	Una vez seleccionado el consecutivo de DUTA, se debe registrar las novedades evidenciadas en las unidades de carga que ampara el transito aduanero y en los sellos de seguridad, tanto en la coincidencia de los consecutivos asignados como la integridad de los sellos.
+3.	El Analista de Operaciones en DTA y SYGA o el Analista de Operaciones encargado, deberá registrar en el sistema informático de la DIAN la siguiente información por cada unidad de carga amparada en el transito aduanero, con sus respectivas observaciones de evidenciarse alguna inconsistencia en el proceso:
+
+Empresa Transportadora que entrego la mercancía.
+Placa, remolque y contenedor que arribaron.
+Si se presentaron inconsistencias de la unidad de carga o precintos y que tipo de irregularidades son.
+Irregularidades en empaques y embalajes y que tipo de irregularidades son.
+Inconsistencias entre datos declaración y la carga.
+Informar el peso y las cantidades físicas que descargo la unidad de carga.
+4.	Una vez registrada dicha información en el sistema informático de la DIAN, este validara los datos declarados contra los recibidos y generara el acta de inconsistencias y la planilla de recepción correspondientes, dando como culminada la finalización del tránsito aduanero.
+5.	Por último, el Analista de Operaciones en DTA y SYGA o el Analista de Operaciones encargado, imprimirá la planilla de recepción y el acta de inconsistencias generada por el sistema informático de la DIAN, para agregarlo al paquete de documentos soportes de la operación de transito aduanero.
+
+En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado realizara el registro de finalización de la modalidad de transito aduanero en el aplicativo AMIGO y en los sistemas informáticos de la DIAN.
+
+Nota: Cuando el transito aduanero arribe a la Zonas Francas Permanentes y Permanentes Especiales dentro de los términos establecidos por la DIAN, pero el registro de finalización se realice después de la fecha autorizada se deberá adjuntar a los documentos soportes del tránsito aduanero el pantallazo del preingreso realizado en bascula, como evidencia de que la mercancía llego dentro de los términos establecidos por la Resolución 000046 del 2019 [Dirección de Impuestos y Aduanas Nacionales (DIAN)]. Por la cual se reglamenta el Decreto 1165 del 2 de julio de 2019. 26 de Julio del 2019.	
+ 
+
+
+5.1.8. FINALIZACION DE CABOTAJES, TRANSITOS ADUANEROS y DOCUMENTOS DE TRANSITOS
+ADUANEROS INTERNACIONALES EN EL SISTEMA INFORMATICO ADUANERO DE LA DIAN (SIGLO XXI O SYGA).
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	
+Con la documentación del tránsito aduanero que corresponde a Cabotajes, Tránsitos Aduaneros y Tránsitos Aduaneros Internacionales en el Sistema informático aduanero de SIGLO XXI, el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, procederá a realizar el registro de finalización en el sistema informático de la DIAN que corresponde, teniendo en cuenta lo siguiente previamente:
+1.	En primer lugar, se debe consultar la información de los Tránsitos pendientes por finalizar, a fin de verificar y confrontar la información con los documentos físicos. Se deberá dar prioridad a aquellos que tienen la fecha de finalización más próxima.
+2.	En todos los casos en que se presente alguna inconsistencia entre la información del sistema informático aduanero SIGLO XXI y la contenida en los documentos físicos como son las declaraciones de régimen de tránsito, documento de transporte, fecha y numero de manifiesto de carga o en los casos en que el tránsito no se encuentre en la lista de pendientes por finalizar, se deberá informar a la administración de partida por correo electrónico, con el fin de que esta evalúe la posibilidad de solucionar el inconveniente o autorice el registro por la opción “Finalizar sin autorización en el Sistema”.
+3.	En caso de no obtener respuesta por parte de la DIAN se debe proceder a contactar vía telefónica a la aduana de partida con el fin de solucionar el inconveniente, una vez se obtenga la autorización de la DIAN por correo electrónico se procede a finalizar el tránsito por la opción " finalizar sin autorización en el sistema" donde deberá quedar registrado en las observaciones del registro de finalización, que la modalidad fue finalizada FSAS (Sin Autorización en el Sistema), se deberá adjuntar como evidencia la impresión del comunicado emitido por la DIAN.
+4.	Para la finalización de la modalidad de Cabotaje o Tránsitos Aduaneros en el Sistema informático aduanero de SIGLO XXI, el sistema generará automáticamente el número correspondiente a la planilla de envío y número de manifiesto. Se deberá ingresar a la plataforma del SIGLO XXI y seleccionar el tránsito a finalizar, posteriormente se deberán diligenciar en el registro de finalización los siguientes campos:
+
+Transportador.
+
+Identificación del Medio (en donde digitamos la placa o placas de los vehículos),
+Sellos de seguridad o precintos.
+
+Descripción de las mercancías y observaciones.
+5.	Las casillas correspondientes al depósito, declarante y NIT del declarante se deberán verificar, aunque ya vienen diligenciadas previamente desde la aduana de partida.
+6.	Se verificarán las fechas de autorización y finalización del tránsito y si existe alguna diferencia entre las fechas documentales vs las fechas digitadas en el sistema SIGLO XXI, se deberá realizar la respectiva observación en el registro de finalización del sistema siglo XXI.
+7.	Al seleccionar la opción modificar se genera automáticamente el número correspondiente a la planilla de envío y número de manifiesto, el cual deberá imprimirse inmediatamente se genere (No hay otra oportunidad para imprimirlo). Seguidamente se deberá imprimir el registro de finalización.
+8.	Una vez verificada la información e impreso el registro de finalización, se procede a realizar la planilla de recepción, en donde se digitan nuevamente en otra casilla lo que corresponde a los precintos.
+9.	Se registra nombre del empleado que recibe y cédula de ciudadanía.
+10.	Se deberá registrar en las inconsistencias encontradas en el proceso de descargue o las observaciones que considere pertinente. Si esta información se registra en
+las observaciones del registro de finalización.
+
+En las demás Zonas Francas Permanentes Especiales, el Analista de Operaciones encargado realizara el registro de finalización de la modalidad de transito aduanero en el aplicativo AMIGO y en los sistemas informáticos de la DIAN.
+
+Nota: Cuando el transito aduanero arribe a la Zonas Francas Permanentes y Permanentes Especiales dentro de los términos establecidos por la DIAN, pero el registro de finalización se realice después de la fecha autorizada se deberá adjuntar a los documentos soportes del tránsito aduanero el pantallazo del preingreso realizado en bascula, como evidencia de que la mercancía llego dentro de los términos establecidos por la Resolución 000046 del 2019 [Dirección de Impuestos y Aduanas Nacionales (DIAN)]. Por
+ 
+
+	la cual se reglamenta el Decreto 1165 del 2 de julio de 2019. 26 de Julio del 2019.	
+
+5.2. INGRESO DE MERCANCIAS DESDE EL TERRITORIO ADUANERO NACIONAL – EXPORTACIÓN (SOLICITUD DE AUTORIZACIÓN DE EMBARQUE).
+ACTIVIDADES	DESCRIPCIÓN	REGISTRO
+
+
+
+
+
+
+
+
+5.2.1. RECIBO DE SOLICITUD DE AUTORIZACIÓN DE EMBARQUE
+
+Analista de Operaciones de DTA y SYGA. Analista de Operaciones en Báscula.	
+El Analista de Operaciones en DTA y SYGA, o Analista de Operaciones designado recibirá del Analista de operaciones en Báscula, la Solicitud De Autorización de Embarque y/o registros previos, la planilla de traslado de mercancía a zona primaria y/o Zona Franca y la factura comercial, previamente verificada, constatando que la información se encuentre correcta para el ingreso a la zona franca.
+
+Una vez recibida la documentación se revisará que la misma esté debidamente consignada o endosada al usuario calificado o autorizado de la zona franca, se continuará con las siguientes actividades.
+
+Consultar el INSTRUCTIVO DE BÁSCULA - IN-OP-001 y
+todos los documentos que de este se desprendan.	
+
+
+
+
+
+
+
+Solicitud de Autorización de Embarque.
+
+Planilla de traslado de mercancía a zona primaria y/o Zona Franca.
+
+Sistemas Informáticos aduaneros de la DIAN.
+	
+Se verificará que este dirigido a un usuario calificado o autorizado de la Zona Franca, que la planilla de traslado y la factura corresponda a la consignada en la Solicitud de Autorización de Embarque (SAE) y que la fecha de aceptación no sea mayor a 1 mes.	
+
+
+
+5.2.2. REVISIÓN Y REGISTRO EN EL SISTEMA INFORMÁTICO DE LA DIAN DE LA SOLICITUD DE
+AUTORIZACIÓN DE EMBARQUE
+
+Analista de Operaciones en Báscula.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	Se verificará que en la casilla 81 este consignado el código de la respectiva Zona Franca.
+Se ingresa el número de la planilla de traslado que está pendiente por recibir en Zona Franca, se selecciona el medio de transporte y se digita el número de la placa del mismo.
+El MUISCA muestra formato 1158 (Aviso de Ingreso Zona Primaria) y genera la selectividad.
+El Aviso en el Sistema MUISCA se genera inmediatamente.	
+
+
+
+Solicitud de Autorización de Embarque.
+
+Planilla de traslado de mercancía a zona primaria y/o Zona Franca.
+Sistemas Informáticos aduaneros de la DIAN.
+	Una vez realizado todo el proceso de registro, el Analista de Operaciones de DTA y SYGA o Analista de Operaciones encargado deberá imprimir el Aviso de Ingreso a Zona Primaria y el resultado de la selectividad del sistema Informático de la DIAN, y organizar el paquete de documentos soportes de la operación de ingreso de mercancía por esta modalidad.	
+5.3. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO ADUANERO Y SOLICITUDES DE AUTORIZACION EMBARQUE AL USUARIO CALIFICADO O AUTORIZADO Y A LA DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES (DIAN).
+	a. Entrega de Documentos al Usuario Calificado:	
+
+
+
+
+
+
+
+
+5.3.1. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO AL USUARIO CALIFICADO Y A LA DIAN EN
+ZONA FRANCA PALMASECA.
+
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	En Zona Franca Palmaseca los documentos físicos de soportes del cierre o finalización de la operación que corresponden a los Cabotajes, Tránsitos Aduaneros, Autorizaciones de Embarque, Planillas de envío de aeropuerto o Planillas de envío de Buenaventura son recogidos por personal autorizado el usuario calificado en la ventanilla de DTA y SYGA en la oficina de operaciones primer piso. Donde el usuario calificado, deberá tener en cuenta que para los documentos de Tránsitos aduaneros finalizados por el Sistema informático de la DIAN Siglo XXI, tendrá que fotocopiar la documentación correspondiente al Transito Aduanero y retornar a la ventanilla de DTA y SYGA en la oficina de operaciones primer piso las fotocopias de dichos documentos	
+	b. Entrega de Documentos a la DIAN:	
+	El Analista de Operaciones en DTA y SYGA, realizara una relación diaria de entrega de los documentos soportes de finalización de las operaciones de Transito Aduanero que se hayan realizado por el sistema informático de la DIAN Siglo
+XXI. Llevando dicha documentación a la oficina del Grupo Interno de Trabajo de la DIAN de Zona Franca Palmaseca.	
+ 
+
+
+
+
+
+
+
+
+
+
+5.3.2. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITO ADUANERO AL USUARIO CALIFICADO Y A LA DIAN EN ZONA FRANCA CONJUNTO INDSUTRIAL PARQUE
+SUR.
+
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	a.	Entrega de Documentos al Usuario Calificado:
+El Analista de Operaciones en DTA y SYGA se encargará de escanear y adjuntar al preingreso todos los soportes que correspondan a la finalización de la operación de Transito aduanero. Adicionalmente, deberá tener en cuenta que aquellos Tránsitos aduaneros que hayan sido finalizados por el sistema informático de la DIAN Siglo XXI, tendrá que organizar un paquete de fotocopias adicional de documentos para entregar uno al usuario calificado y el otro al Grupo Interno de Trabajo de la DIAN del Cauca. Posteriormente, personal autorizado del usuario calificado recogerá la documentación que corresponda.
+b.	Entrega de Documentos a la DIAN:
+
+El Analista de Operaciones en DTA y SYGA se encargará de consolidar la documentación que le corresponde al Grupo Interno de Trabajo de la DIAN del Cauca asignado. Y la entregara a la persona autorizada por la copropiedad de Zona Franca Permanente Conjunto Industrial Parque Sur cada dos días hábiles, que a su vez es la encargada de entregar finalmente la documentación en la oficina del Grupo Interno de Trabajo de la DIAN del Cauca.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Correo Electronico.
+
+5.3.3. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITOS ADUANEROS AL USUARIO AUTORIZADO SOCIEDAD PUERTO INDUSTRIAL AGUADULCE S.A.
+
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	a. Entrega de Documentos al Usuario Calificado:
+El Analista de Operaciones encargado, cada vez que se presenta una operación de finalización de Cabotajes, Tránsitos Aduaneros y Autorizaciones de Embarque se encargara de la entrega de la documentación correspondiente al personal del usuario autorizado y adicionalmente radicara los documentos soportes de la operación en la oficina de archivo de la DIAN en Buenaventura.	
+
+
+
+Correo Electronico.
+
+
+
+
+
+5.3.4. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITOS ADUANEROS AL USUARIO AUTORIZADO
+PROTERRA FOODS S.A.S. Y A LA DIAN.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	a.	Entrega de Documentos al Usuario Calificado:
+El Analista de Operaciones encargado, consolidará los documentos soportes de la finalización de los Tránsitos Aduaneros que se hayan presentado durante el día, y se los entregará al personal del Usuario autorizado encargado.
+b.	Entrega de Documentos a la DIAN:
+
+El Analista de Operaciones coordinara el envió de un paquete de fotocopias de los documentos soportes de la finalización de Tránsitos Aduaneros que haya lugar a Zona Franca Palmaseca, donde se encargaran de entregar la documentación al Grupo Interno de Trabajo de la DIAN.	
+
+
+
+
+
+
+Correo Electronico.
+
+
+5.3.5. ENTREGA DE DOCUMENTOS ORIGINALES DE TRÁNSITOS ADUANEROS AL USUARIO AUTORIZADO
+DESTILERÍA RIOPAILA S.A.S.
+
+Analista de Operaciones en DTA y SYGA o Analista encargado.	a. Entrega de Documentos al Usuario Calificado:
+
+Cada vez que se presente la operación, el Analista de Operaciones realizara la entrega de los documentos soportes de la finalización del Transito Aduanero al usuario autorizado, que por medio de la empresa de mensajería aliada enviara la documentación a la oficina de la DIAN en la ciudad de Pereira.	
+
+
+
+Correo Electronico.
+5.4. PROTOCOLO DE COMUNICACIÓN DIAN, ENVÍO DE REPORTE A LAS ADUANAS DE PARTIDA, Y ACTIVIDADES POR FALLAS O CONTINGENCIA EN LOS SIE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4.1. PROTOCOLO DE COMUNICACIÓN DIAN
+
+Analista de Operaciones Encargado.
+
+Supervisor Aseguramiento.
+
+Analista senior de Aseguramiento.	
+El protocolo de comunicación DIAN es un documento digital compartido en el GOOGLE DRIVE que sirve de consulta para todos los colaboradores de gestión de operaciones, en donde compila los reportes, informes o las operaciones que por su connotación normativa deben ser notificadas formalmente a la autoridad aduanera de la Dirección Seccional Aduanas de Cali o a quien corresponda de las demás administraciones a través de los canales de comunicación establecidos por la entidad oficial.
+El protocolo de comunicación DIAN indica el nombre de la instrucción, el subproceso responsable, la normatividad asociada o la instrucción de la autoridad aduanera que debe ser reportada por el Usuario Operador, la actividad unificada para dar cumplimiento a dicha obligación y los correos electrónicos de la autoridad aduanera a los cuales debe enviarse la información. Esta herramienta permite filtrar la información por cada zona franca operada dado que en algunas jurisdicciones aduaneras en donde se encuentran ubicadas aplican reportes que en otras no. Adicionalmente, relaciona la fecha de la última revisión y actualización.
+Este documento es de obligatorio cumplimiento por parte de los colaboradores de gestión de operaciones y estará a cargo la actualización y socialización el subproceso de aseguramiento toda vez que haya un cambio normativo o la autoridad aduanera notifique una nueva instrucción.
+El protocolo de comunicación se encuentra en el siguiente
+ENLACE DE CONSULTA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplicativo AMIGO/AMIGO PRO / AMIGO/AMIGO PRO PRO
+
+Correo Electrónico.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4.2. REPORTE DE INGRESO DE MERCANCIAS (R.I.M.) A LAS ADMINISTRACIONES DE ORIGEN.
+Analista de Operaciones en DTA y SYGA. Analista de Operaciones Encargado.
+.	
+El Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, comunicara la finalización de la operación de los Tránsitos Aduaneros finalizados por el sistema informático de la DIAN Siglo XXI, a la Aduana de Partida, enviando la información de la Planilla de Recepción por medio de correo electrónico. Garantizando la recepción de la información por parte del destinatario.
+Se deberá enviar diariamente o cada vez que ocurra la operación, un correo electrónico a las diferentes aduanas de partida, notificando la cantidad de Tránsitos Aduaneros finalizados durante el día por el sistema informático de la DIAN de Siglo XXI, con la siguiente información:
+Numero de consecutivo de comunicación a la aduana de partida.
+Aduana de partida.
+Numero de documento de transporte y fecha. Numero de manifiesto de carga y fecha.
+Fecha de recepción de la carga. Peso bruto recibido.
+Cantidad de bultos recibida.
+Observaciones, inconsistencias, número del documento de tránsito; y se adjuntan las planillas de recepción del sistema siglo XXI.
+El consecutivo de comunicación a la aduana de partida contiene seis caracteres, los tres primeros corresponden al consecutivo interno, el cuarto es un guion (-) y los dos últimos corresponden al año. Al inicio de cada año, el consecutivo debe ser reiniciado de tal forma que, el primer informe tenga el consecutivo 001- (dos últimos dígitos del año que inicia). Como lo muestra la Figura 2 a continuación el consecutivo de comunicación a la aduana de partida se asigna a cada día hábil:
+
+ 
+
+
+Figura 2. Ejemplo de asignación de consecutivo de reporte de ingreso de mercancía a las aduanas de partida.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Correo electrónico.
+
+
+
+
+
+
+
+
+
+
+5.4.3. SOLICITUD DE FINALIZACION DE TRANSITOS ADUANEROS FUERA DEL SISTEMA (F.S.A.S.) O CON
+ERRORES DE DIGITACION.
+
+Analista de Operaciones en DTA y SYGA.	Cuando los Tránsitos Aduaneros arriben a las Zonas Francas Permanentes y Permanentes Especiales, y no se encuentren registrados o incluidos en el Sistema Informático de la DIAN del Siglo XXI. El Analista de Operaciones de DTA y SYGA o Analista de Operaciones encargado, enviara un correo electrónico a la Aduana de partida y al Grupo Interno de Trabajo de la DIAN asignado a la Zona Franca. Solicitando finalizar el Transito Aduanero que presenta dicha situación por fuera de los sistemas informáticos. Una vez se reciba el correo de repuesta donde indique como proceder el Analista de Operaciones de DTA y SYGA o Analista de Operaciones encargado seguirá las instrucciones consignadas en el correo de respuesta.
+Nota : Se debe Incluir copia de los correos electrónicos de autorización para finalización de los Tránsitos Aduaneros por FSAS en los documentos soportes de la finalización del Transito Aduanero, tanto los que se le entregan al usuario calificado o autorizado como los que se entregan al grupo interno de trabajo de la DIAN que corresponda.	
+
+
+
+
+
+
+
+
+Remisión de Documentos.
+
+Aplicativo AMIGO. Google Drive.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4.4. REGISTRO DE NOTIFICACION DE UN PST DEBIDO A FALLAS EN EL SIE MUISCA.
+
+Analista de Operaciones en DTA y SYGA.	
+Para los casos en que la plataforma del MUISCA en el módulo de Transito Aduanero presente errores o fallas, el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado deberá realizar un reporte vía telefónica a la línea de atención en Bogotá (1) 355 6924. En esta llamada telefónica se confirmará una serie de datos relacionados con los documentos soportes de la operación, el NIT de Zona Franca Palmaseca S.A. y el correcto uso del navegador web Mozilla Firefox. Finalizado este proceso con la línea de atención, le asignaran un código vía telefónica y le indicaran bajo que términos deberá redactar un correo electrónico con destino a asistenciaaduanera@iq-online.com, al jefe del Grupo interno de trabajo de la DIAN asignado a la Zona Franca que corresponda y a los Coordinadores y Supervisores de la Zona Franca que aplique el caso.
+Acto seguido el Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado procederá a redactar el correo electrónico registrando como Asunto el Código o consecutivo PST y redactando el cuerpo del correo de la siguiente manera:
+
+ 
+
+Imagen 8. Ejemplo de cuerpo de correo, reportando la novedad o falla en los sistemas informaticos de la DIAN.
+Finalmente, le corresponda al Analista de Operaciones en DTA y SYGA o Analista de Operaciones encargado, gestionar y realizar seguimiento de dicha solicitud hasta que el inconveniente o falla sea solucionado para continuar con el proceso en el sistema informático MUISCA.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplicativo AMIGO. Correo Electronico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4.5. ACTIVIDADES POR CONTIGENCIA DEL SIE SIGLO XXI (SYGA).
+
+Analista de Operaciones en DTA y SYGA.	
+Una vez la Dirección de Impuestos y Aduanas Nacionales (DIAN), declara la contingencia de los Sistemas Informáticos Electrónicos y autoriza el trámite mediante un mecanismo diferente o en forma manual, el analista de DTA & SYGA o Analista encargado debe presentar en forma física o a través de medios magnéticos la documentación e información requerida, en cumplimiento del artículo 27 del Decreto 1165 de 2019, el artículo 2 de la Resolución 46/2019 y la normatividad que modifique o adicione. Cuando se restablezcan los servicios Electrónicos Aduaneros debe incorporar, actualizar y realizar las actuaciones correspondientes a través del mismo sistema, finalizando todas las operaciones de tránsito aduanero que tuvieron tramite manual de acuerdo a lo que determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
+
+Por lo anterior y teniendo en cuenta la obligación por parte de los usuario operadores de zona franca de finalizar las operaciones de transito aduanero y cabotaje, el analista de DTA & SYGA o Analista encargado debe diligenciar por cada operación de tránsito el FO- COA-2134 Solicitud de Tramites manuales (formato de la autoridad aduanera), realizar la planilla de recepción del sistema AMIGO/AMIGO PRO, relacionando en la casilla de observaciones del documento en mención la declaratoria de contingencia de la DIAN y diligenciando en el formato 650 Declaración de tránsito Aduanero y/o Cabotaje, las casilla establecidas para la actuación del deposito o usuario de zona franca (de la casilla 92 a la 100) la información relacionada principalmente con la recepción de la mercancía tales como fecha, hora, peso de la carga y bultos.
+Una vez se cumpla con lo anterior, debe informar a la autoridad aduanera (GIT Zona Franca), a través de los medios de comunicación oficinales dispuestos por la entidad o entregando en forma física el formato 650 Declaración de tránsito Aduanero y/o Cabotaje, anexando la planilla de recepción del sistema de inventarios del Usuario Operador y el FO- COA-2134 Solicitud de Tramites manuales diligenciado; posteriormente, la autoridad aduanera entrega la documentación con el numero de manifiesto manual y se da continuidad a la operación entregando los soportes correspondientes al usuario para que se legalizase el ingreso en el sistema AMIGO/AMIGO PRO.
+En todo caso, se deben conservar todos los medios de prueba de la contingencia y la finalización de la operación (pantallazos de errores, correos electrónicos, comunicados, entre otros). Una vez se reestablezcan los servicios informáticos electrónicos se debe ingresar y actualizar la información al sistema y finalizar las operaciones de tránsito que fueron autorizadas de forma manual durante la contingencia.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplicativo AMIGO. Correo Electronico.
+
+FO- COA-2134 Solicitud de Tramites manuales
+5.5. GENERALIDADES.
+ 
+
+
+
+
+
+
+
+
+
+
+5.5.1. ESPACIO DE BAHIA INTERNA PARA LA SEGURIDAD Y FACILIDADES NECESARIAS PARA QUE LAS AUTORIDADES
+PUEDAN LLEVAR A CABO LAS INSPECCIÓNES.
+
+Analista de Operaciones Encargado.
+
+Funcionario del Usuario calificado o autorizado Encargado.
+
+Funcionario del grupo Interno de Trabajo de la DIAN.	
+En Zona Franca Palmaseca y en Zona Franca Conjunto Industrial Parque Sur, se dispone del espacio de bahía interna. Dicha área se encuentra localizada al interior del área declarada como Zona Franca en cada una de las Zonas Francas nombradas, se destina esta área para que, en los diferentes casos, ya sea ingreso o salida de vehículos con mercancía o vacíos se pueda realizar la inspección de contendedores, dispositivos electrónicos y placas en un entorno seguro y controlado desde gestión de operaciones y el área de seguridad conforme a las disposiciones legales vigentes.
+En las Zonas Francas Permanentes Especiales, los usuarios autorizados dispondrán de los espacios de vigilancia y control propios de Zona Franca, para la realización de este tipo de validaciones o inspecciones cuando se requiera.
+Para los casos en que las inspecciones a llevar a cabo, requieran de realizar desembalaje de mercancía. Esta inspección se podrá ejecutar en las instalaciones del usuario calificado o autorizado que corresponda.	
+
+
+
+
+
+
+
+
+
+
+Registro Fotográfico.
+
+
+Bahia interna de Inspeccion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5.2. MEDIDAS DE SEGURIDAD IMPLEMENTADAS PARA GARANTIZAR LA INTEGRIDAD DE LOS CONTENEDORES Y DEMAS UNIDADES DE CARGA EN EL PROCESO DE SALIDA
+DE MERCANCIA Y TRANSPORTE INTERNO EN EL AREA DECLARADA COMO ZONA FRANCA.
+Analista de Operaciones Encargado. Guarda de Seguridad Encargado.	En las Zonas Francas Operadas por la Zona Franca Permanente Palmaseca S.A., las medidas de seguridad en los procesos de cargue y descargue de mercancía le corresponden al usuario calificado o autorizado, sin embargo, como se denota en la actividad 5.1.4. CONTEO, RECONOCIMIENTO  E  INSPECCION  FISICA  DE  LA
+MERCANCIA, del presente documento y en el INSTRUCTIVO BASCULA – IN-OP-001, lo que se refiere a actividades de inspección que requieran el desembalaje de la mercancía, se realizara en las instalaciones del usuario calificado o autorizado. En Zona Franca Palmaseca y Zona Franca Conjunto Industrial Parque Sur, se tiene a disposición del área de bahía interna, donde se garantiza que la integridad física de los contenedores y dispositivos de electrónicos de seguridad no se verán manipulados, afectados o abiertos hasta que el ente de control determine como proceder según sea el motivo por el cual, la unidad de carga o contenedor se ubique en esta área de la Zona Franca.
+En Zona Franca Palmaseca, se cuenta con el apoyo de la herramienta tecnológica del Circuito Cerrado de Televisión (C.C.T.V.), para proteger las unidades de carga o contenedores, contra el ingreso de personal y/o la introducción de materiales no autorizados. Además, el Guarda de seguridad encargado, reporta diariamente vía correo electrónico al Supervisor y Coordinador de Operaciones, la ocupación de la bahía interna del área declarada como Zona Franca. En dicho reporte se detalla la unidad de carga, el usuario calificado y el puesto ocupado de la bahía interna.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIVO VERIFICACIÓN Y CIERRE DE TRÁNSITOS ADUANEROS – IN-OP-005.
+Aplicativo AMIGO.
+
+Circuito Cerrado de Televisión (C.C.T.V.).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5.3. CUSTODIA DEL REGISTRO FOTOGRAFICO.
+
+
+Analista de Operaciones en DTA y SYGA.
+
+
+Analista de Operaciones encargado.	
+
+El registro fotográfico resultante de los procesos de ingreso de vehículos o unidades de carga, apertura o desprecintes, conteo, reconocimiento e inspección física de la mercancía deberá custodiarse como mínimo por cinco años de manera digital de la siguiente forma en cada una de las Zonas Francas Permanentes y Permanentes Especiales como se desglosa a continuación:
+a.	Zona Franca Palmaseca: El Analista de Operaciones en DTA y SYGA, almacenara el registro fotográfico resultan de las actividades mencionadas anteriormente, en la carpeta compartida de DTA, en la subcarpeta FOTOS, que a su vez se encuentra dividida por el Tipo de Transito Aduanero, fecha y usuario calificado que corresponda la operación.
+b.	Zona Franca Conjunto Industrial Parque Sur: El Analista de Operaciones en DTA y SYGA, almacenara el registro fotográfico resultante de las actividades mencionadas anteriormente, en el equipo de DTA y SYGA, que a su vez se encuentra dividida por el Tipo de Transito Aduanero, fecha y usuario calificado que corresponda la operación.
+c.	Proterra Foods S.A.S.: El Analista de Operaciones encargado, almacenara el registro fotográfico resultante de las actividades mencionadas anteriormente, en el equipo de la báscula. que a su vez se encuentra dividida por el Tipo de Transito Aduanero y fecha que corresponda la operación.
+Las demás Zonas Francas Especiales, cargan las evidencias fotográficas como soportes de la operación e los formularios de movimientos de mercancías en formato PDF directamente en el aplicativo AMIGO.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registro Fotografico.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+5.5.4. HERRAMIENTAS Y EQUIPOS TECNOLÓGICOS PARA USO DE LAS AUTORIDADES DE CONTROL.
+Analista de Operaciones Encargado. Guarda de Seguridad Encargado.	
+En todas las Zonas Francas Operadas por la Zona Franca Permanente Palmaseca S.A., se cuenta con las herramientas y equipos tecnológicos, con el objetivo de registrar las evidencias de las actividades de control en el desarrollo de las operaciones, tales herramientas o equipos son:
+Aplicativo AMIGO. Cámara Fotográfica.
+Celulares corporativos cuando corresponda. Bascula camionera.
+Báscula de precisión.
+Circuito Cerrado de televisión (C.C.T.V).
+
+Dichos equipos, registros y evidencias de control pueden ser usados como elementos de apoyo, para el uso de las autoridades de control, conforme lo establezcan las disposiciones legales vigentes.
+
+
+En las Zonas Francas Permanentes Especiales, el acceso al Circuito Cerrado de televisión (C.C.T.V)., pertenecen al control y administración de parte del usuario autorizado y el proveedor del servicio de seguridad subcontratado.	
+
+
+
+
+
+
+
+
+
+
+Circuito Cerrado de televisión (C.C.T.V).
+
+Aplicativo AMIGO. Bascula Camionera. Bascula de Precisión.
+5.5.5. ARCHIVO DOCUMENTAL DE DTA Y SYGA.
+
+Analista de Operaciones en DTA y SYGA.
+
+
+Analista de Operaciones encargado.	
+El Analista de operaciones del subproceso deberán ejecutar las actividades contenidas en el MANEJO Y CONTROL DE LA DOCUMENTACIÓN PARA CUSTODIA EN ARCHIVO CENTRAL. (IN-OP-033).
+RELACIÓN DE DOCUMENTOS ENTREGADOS PARA ARCHIVO - FO-OP-005
+
+
+MANEJO Y CONTROL DE LA DOCUMENTACIÓN PARA CUSTODIA EN ARCHIVO CENTRAL. (IN-OP-033).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5.6. ENTREGA DE TURNO.
+
+Analista de Operaciones en DTA y SYGA. Analista de Operaciones encargado.	Al finalizar el turno, según corresponda el horario de atención que aplique en cada Zona Franca Permanente y Permanente Especial, el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado enviara por correo electrónico la entrega de turno, de la siguiente forma:
+a.	Zona Franca Palmaseca:
+Se diligenciará un archivo en Excel, el cual, contendrá la información relevante e importante de la operación del turno que culmino y lo enviará por correo electrónico al equipo de trabajo con copia al Supervisor(a) y Coordinador(a) de operaciones.
+b.	Zona Franca Permanente Conjunto Industrial Parque Sur:
+Se realizará en la bitácora de entrega de turno, donde se relacionará si hay o no novedades en cada entrega de turno. El Analista de Operaciones del Turno de 10:00 p.m. a 06:00
+a.m. deberá tener en cuenta la lista de chequeo en donde está consignado las rutas, procedimientos, y la periodicidad de la actividad.
+c.	Proterra Foods S.A.S.:
+
+Se enviará correo electrónico al Coordinador Encargado con las novedades del turno.
+d.	Destilería Riopaila S.A.S.:
+
+Se realizará la entrega de novedades a través de correo electrónico al Coordinador Encargado con las novedades del turno. Adicionalmente, en el Google DRIVE se encuentra el Archivo Bitácora de Operaciones de Destilería Riopaila S.A.S. para registrar aquellos casos y situaciones particulares en el día
+e.	Sociedad Puerto Industrial Aguadulce S.A.
+
+Se enviará correo electrónico al Coordinador Encargado con las novedades del turno.
+Adicionalmente, si dentro del proceso y actividades realizado durante su turno el Analista de Operaciones de DTA y SYGA o el Analista de Operaciones encargado encuentra una de las señales de alerta según lo expuesto en el REPORTE DE OPERACIONES   INUSUALES,   SOSPECHOSAS   O
+AUSENCIA DE OPERACIONES - IN-JU-005, deberá reportar al oficial de cumplimiento la operación que considera inusual diligenciando el REPORTE DE OPERACIONES INTENTADAS, INUSUALES O REPORTE DE AUSENCIAS –
+FO-JU-031. Posterior a esto se procederá por parte del oficial de cumplimiento o los integrantes del comité de cumplimiento el análisis y la investigación del caso para determinar si corresponde a una operación sospechosa para ser reportada a la Unidad de Información y Análisis Financiero (U.I.A.F.).	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Correo Electronico.
+
+
+
+
+
+
+
+5.5.7. HERRAMIENTAS DEL PROCESO DE OPERACIONES EN SITUACIONES DE CONTINGENCIA.
+Analista de Operaciones Encargado.	En las Zonas Francas Operadas por la Zona Franca Permanente Palmaseca S.A., los Analistas de Operaciones en DTA y SYGA o los Analistas de Operaciones encargados, deberán tener en cuenta que el proceso de gestión de operaciones cuenta con el MANUAL DE CONTINGENCIA GESTIÓN DE OPERACIONES - MA-OP-001, en el cual, se
+estipulan las maniobras y actividades a seguir o en conjunto de medidas que se plantean, a nivel estratégico, organizacional, operativo y de personal, en caso de que se presente una situación extraordinaria que ponga en riesgo la continuidad del negocio y la compañía. Situaciones tales como desastre natural, incendio, sabotaje, corte de energía, ciberataques y fallas en las comunicaciones y el transporte; terrorismo y alteración del orden público.	
+
+
+
+
+
+
+
+Correo Electronico.
+
+6.	DOCUMENTOS
+
+6.1.	DOCUMENTOS EXTERNOS.
+ 
+  Advertencia! : document index (12) not found in active documents   Decreto 1165 de 2019.
+  Resolución 046 de 2019.
+  Decreto 390 de 2016.
+  Manual Sistemas Informáticos Electrónicos Aduaneros- DIAN.
+  Memorandos o circulares del Ente de Control DIAN que modifiquen o se apliquen nuevas instrucciones.   Decreto 278 del 2021.
+  Decreto 360 del 2021.
+
+6.2 DOCUMENTOS INTERNOS:
+
+  INSTRUCTIVO DE BÁSCULA - IN-OP-001
+  INSTRUCTIVO DE PATIOS Y CONTROL DE ÁREAS - IN-OP-003
+  CONTROL DEL INGRESO DE BIENES PROHIBIDOS Y SUSTANCIAS CONTROLADAS - IN-OP-027   RELACIÓN DE DOCUMENTOS ENTREGADOS PARA ARCHIVO - FO-OP-005
+  ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP-044
+  INSTRUCTIVO DEL PROGRAMA DE GESTIÓN DEL RIESGO NORMATIVO - IN-OP-031   MANUAL DE CONTINGENCIA GESTIÓN DE OPERACIONES - MA-OP-001
+  CARGOS AUTORIZADOS PARA FIRMAR O AUTORIZAR FORMATOS SIG DE OPERACIONES Y DEMAS DOCUMENTOS DE LAS OPERACIONES EN ZONA FRANCA - DG-OP-002   TRANFERENCIA DOCUMENTAL - FO-CT-008
+  Reporte de ingreso de mercancías entregados a la DIAN   Reporte de ingreso de ingreso con planillas de SPRBUN   Informe de tránsitos a la aduana de partida
+  Informe Planillas de recepción   Planillas en Aplicativo AMIGO   Registro Fotográfico
+  Carta Remisoria de documentos con firma de recibido por el funcionario de los proyectos.   Protocolo de comunicación DIAN
+
+FECHA DE EMISIÓN: 15/01/2009
+ELABORÓ	REVISÓ Y APROBÓ
+
+Kelly Silvana Arteaga Velez
+Supervisor de Aseguramiento
+Juan David Cano Valencia
+Analista Sénior de Aseguramiento	
+
+Ayda Mercedes Angulo Soto
+Director de Operaciones
+
+Jeniffer Garzón Fuentes @ 2025-05-07, 8:29:27

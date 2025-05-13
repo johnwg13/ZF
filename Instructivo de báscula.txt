@@ -1,0 +1,796 @@
+
+ 
+
+
+ 	
+INSTRUCTIVO DEL PROGRAMA DE GESTIÓN DEL RIESGO NORMATIVO
+	
+CÓDIGO:
+
+IN-OP-031	
+VERSIÓN:
+
+013	
+FECHA DE ACTUALIZACIÓN:
+
+2024-08-12
+
+1.	OBJETIVO
+
+Asegurar el cumplimiento de los requisitos legales asociados al Régimen Franco vigente, identificando, gestionando y tratando las vulnerabilidades presentes en el desarrollo de las operaciones de los usuarios calificados o autorizados, y en la gestión del usuario operador de la zona franca, mediante la ejecución de diferentes actividades preventivas, de verificación, control y seguimiento implementadas en gestión de operaciones.
+
+2.	ALCANCE
+
+Este documento aplica para todas las Zonas Francas Permanentes, Zonas Francas Permanentes Especiales operadas por Zona Franca Palmaseca S.A. y en las que se presta el servicio de inhouse de Usuario Operador.
+3.	CAMBIOS
+
+Versión 12 a versión 13
+
+  Se cambia la redacción del objetivo.   Se cambia la redacción del alcance.
+  Se establecen los tiempos para el establecimiento de los planes de acción y el cierre de las actividades que subsanan los hallazgos presentados por las auditorias de control interno y las auditorias externas de inventario en el numeral 5.3 METODOLOGÍA GESTIÓN Y CIERRE DE HALLAZGOS DE AUDITORIA EXTERNA Y CONTROL INTERNO.
+  Se establece una nueva metodología para la elaboración de los análisis integrales de operaciones de los usuarios calificados y autorizados en el numeral 5.4 ANÁLISIS INTEGRAL DE LAS OPERACIONES.
+  Se modifican las actividades del numeral 5.5 PLAN DE CIERRE A LOS USUARIOS RETIRADOS DE ZONA FRANCA conforme a lo dispuesto por el proceso jurídico y el proceso de contabilidad y auditoría.
+  Se modifican las actividades del numeral 5.6 SEGUIMIENTO A LOS NUEVOS USUARIOS CALIFICADOS DE ZONA FRANCA.
+  Se establece una nueva metodología para la ejecución de las visitas del numeral 5.7 CONOCIMIENTO DE LOS PROCESOS PRODUCTIVOS Y/O PRESTACIÓN DE SERVICIOS DE LOS USUARIOS.
+  Se cambia el nombre de la actividad y se incluyen los reportes de las salidas no conformes de cada zona franca del numeral 5.10 REPORTE DE NO CONFORMES DEL PROCESO DE GESTIÓN OPERACIONES
+  Se incluye el enlace de consulta en el numeral 5.14 REUNIONES DE UNIFICACIÓN DE CRITERIOS Y RIESGO NORMATIVO.   Se elimina el numeral 5.16 ALERTAS DEL PGRN.
+  Se modifica la redacción del numeral 5.19 ACCIONES A SEGUIR ANTE LOS ACTOS SANCIONATORIOS POR PARTE DE LA AUTORIDAD ADUANERA.
+  Se modifica la numeración de las actividades del instructivo.
+
+Versión 11 a versión 12
+
+  Se modifica la redacción del objetivo del instructivo y se amplia el alcance del instructivo.
+  Se cambia el nombre del numeral 5.7 CONOCIMIENTO DE LOS PROCESOS PRODUCTIVOS Y/O PRESTACIÓN DE SERVICIOS DE LOS USUARIOS y 5.9 MATRIZ DE EVENTOS PRESENTADOS EN EL DIA.
+  Se cambia la redacción del numeral 5.11 MATRIZ DE ÁREAS Y ACTIVIDADES USUARIOS CALIFICADOS, 5.12 VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES, 5.14 REUNIONES DE UNIFICACIÓN DE CRITERIOS Y RIESGO NORMATIVO.
+  Se actualiza toda la actividad del numeral 5.13 INVENTARIO DE MECANISMOS DE CONTROL.   Se actualiza toda la actividad del numeral 5.17 INSPECTOR DE OPERACIONES.
+Versión 10 a versión 11
+
+  Se cambia el nombre de la actividad relacionada en el numeral 5.2, 5.5. CREACIÓN DE PERFIL DEL USUARIO CRÍTICO, TRATAMIENTO Y CONSECUENCIAS.
+  Se reestructura el numeral 5.3 AUDITORIAS 30P por METODOLOGÍA DE GESTIÓN Y CIERRE DE HALLAZGOS DE AUDITORIA EXTERNA Y CONTROL INTERNO.
+  Se cambia la redacción del numeral 5.4. ANÁLISIS INTEGRAL DE LAS OPERACIONES, 5.6 SEGUIMIENTO A LOS NUEVOS USUARIOS CALIFICADOS DE ZONA FRANCA, 5.7 CONOCIMIENTO DE LOS PROCESOS PRODUCTIVOS DE LOS USUARIOS, 5.8 ACTIVIDADES PGRN ENFOCADAS AL USUARIO OPERADOR.Se cambia la redacción de la actividad 5.9 MATRIZ DE EVENTOS DETECTADOS EN EL DIA. 5.10 MATRIZ DE ERRORES DISCRIMINADO POR FUNCIONARIOS DE OPERACIONES y 5.12 VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES
+  Se cambia los numerales 4, 5 y 6 de la actividad 5.6 SEGUIMIENTO A LOS NUEVOS USUARIOS CALIFICADOS DE ZONA FRANCA
+  Se elimina la actividad relacionada en el numeral 5.9 SEGUIMIENTO A LA CONTINUIDAD DE LAS OPERACIONES DE LOS USUARIOS y 5.18 AUDITORIA INTERNA AL PGRN   Se modifica el numeral y la actividad relacionada en 5.19 ALERTAS DEL PGRN.
+  Se modifica el numeral y la actividad relacionada en 5.20 CONSOLIDACIÓN DE OPERACIONES ESPECIALES Y DEFINICIONES.   Se elimina la actividad relacionada en el numeral 5.23 OTRAS ACTIVIDADES
+Versión 9 a versión 10
+
+  Se cambia la metodología de seguimiento de los planes de acción en el númeral 5.3 AUDITORIAS PREVENTIVAS (30P)
+  Se incluye la actividad 5.22.1. CONTROL DEL CIERRE DE LOS HALLAZGOS ENCONTRADOS DURANTE LAS AUDITORÍAS INTERNAS (30P).   Se incluye la actividad 5.22.2. ACCIONES A SEGUIR ANTE LOS ACTOS SANCIONATORIOS POR PARTE DE LA AUTORIDAD ADUANERA.
+Versión 8 a versión 9
+
+  Se cambia la metodología de seguimiento de los planes de acción en el númeral 5.3 AUDITORIAS PREVENTIVAS (30P)    Se cambia la frecuencia de las auditorias a los usuarios de vehículos en el númeral 5.15. MECANISMOS DE CONTROL
+  Se relaciona nueva actividad de Tipificación no Conforme Dentro del Proceso númeral 5.21 TIPIFICACIÓN NO CONFORMES DENTRO DEL PROCESO   Se relaciona nueva actividad Notificación Nuevo Registro Legal númeral 5.22. NUEVO REQUISITO LEGAL.
+  Se cambia la numeración de la actividad 5.23 OTRAS ACTIVIDADES, anteriormente estaba con la numeración 5.21   Se actualiza la actividad 6.2 DOCUMENTOS INTERNOS
+4.	DEFINICIONES
+
+N/A
+
+
+ 
+
+
+5.	DESCRIPCIÓN
+
+ACTIVIDADES	
+DESCRIPCIÓN	
+REGISTRO
+
+
+
+5.1 GENERALIDADES DEL PGRN	
+El Programa de Gestión de Riesgo Normativo, en adelante PGRN está enfocado a la ejecución de herramientas preventivas, de verificación, control y seguimiento dirigidas a:
+Usuarios de las diferentes zonas francas operadas.
+La gestión de control realizada por el usuario operador.
+
+
+
+
+5.2 ACTIVIDADES ENFOCADAS AL
+USUARIO CALIFICADO O AUTORIZADO	
+Con el fin de garantizar el cumplimiento de las disposiciones del régimen franco, se han establecido las siguientes herramientas, las cuales están enfocadas a gestionar las vulnerabilidades identificadas en el proceso, con el fin de reforzar y mejorar los controles:
+Metodología gestión y cierre de hallazgos de auditoría externa de inventarios y control interno. Análisis integral de las operaciones.
+Plan de cierre a los usuarios retirados de zona franca.
+Conocimiento de los procesos productivos y/o prestación del servicio de los usuarios. Seguimiento a los nuevos usuarios calificados de la zona franca.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.3 METODOLOGÍA GESTIÓN Y CIERRE DE
+HALLAZGOS DE AUDITORIA EXTERNA Y CONTROL INTERNO
+Dirección de operaciones
+
+Coordinador de operaciones
+Supervisor de aseguramiento
+Analista senior de aseguramiento	
+Gestión y cierre de hallazgos de control interno
+
+Una vez el proceso de control interno y SIG realicen la socialización y entreguen formalmente el informe de auditoría conforme al Numeral 5.8 Socialización de resultados del procedimiento Auditorías de Control Interno - PR-CI-001, el coordinador de operaciones de la zona franca correspondiente en conjunto con el subproceso de Aseguramiento deben establecer las acciones necesarias para tratar los diferentes hallazgos evidenciados en las auditorias de control interno dentro de los quince (15) días calendario siguientes al recibo del informe de auditoria. Las fechas de cumplimiento de las actividades que se determinen para subsanar las desviaciones o hallazgos de riesgo tipificado como alto deberán cerrarse en el término de treinta (30) días calendario y los hallazgos de riesgo medio y bajo en el término de cuarenta y cinco (45) días calendario siguientes a la fecha del envío del informe respectivo.
+El plan de acción debe ser registrado en el sistema DARUMA, para hacer el seguimiento correspondiente. Cabe mencionar que las actividades del plan de acción pueden agrupar diferentes hallazgos; no obstante, se debe tener la trazabilidad de cómo se gestionó y cerró cada uno de ellos.
+Gestión y cierre de hallazgos de auditoría externa de inventarios
+
+Una vez la firma de auditoría externa envíe la socialización de auditoría a las personas correspondientes, el subproceso de aseguramiento diligencia el archivo Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP-035 en conjunto con el coordinador de zona franca.
+Posteriormente, el coordinador de la respectiva zona franca debe programar una reunión con el usuario calificado o autorizado en compañía del subproceso de aseguramiento para establecer los tratamientos necesarios con el objetivo de subsanar los diferentes hallazgos evidenciados en las auditorías externas de inventario dentro de los quince (15) días calendario siguientes al recibo del informe de auditoría. Las fechas de cumplimiento de las actividades que se determinen para subsanar las desviaciones o hallazgos de riesgo tipificados como alto deberán cerrarse en el término de treinta (30) días calendario y los hallazgos de riesgo medio y bajo en el término de cuarenta y cinco (45) días calendario siguientes a la fecha del envío del informe por el auditor externo de inventarios.
+Por otra parte, el subproceso de Aseguramiento debe notificar mediante correo electrónico los hallazgos cuyo tratamiento deban ser gestionados por el proceso de Gestión Jurídica, y la jefatura jurídica determinará una fecha para el cumplimiento de estos y realizará el seguimiento al cierre efectivo de los hallazgos.
+El coordinador de operaciones de la respectiva zona franca debe informar vía correo electrónico los seguimientos realizados y las actividades finalizadas al subproceso de Aseguramiento para que sean relacionados en el archivo Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP-035.
+Finalmente, el archivo Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP-035 debe enviarse cada mes a la jefe de contabilidad y auditoria reportando el cierre y/o avances de los tratamientos como insumo para los indicadores de dicho proceso.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sistema DARUMA
+
+Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP- 035
+
+
+
+
+
+
+
+
+
+5.4 ANÁLISIS INTEGRAL DE LAS
+OPERACIONES
+
+Analista Sénior de operaciones
+Supervisor de Operaciones
+Coordinador de operaciones
+Dirección de operaciones	
+Realizar un análisis integral de las operaciones de un usuario calificado o autorizado es examinar detalladamente, comprender, y documentar la forma de operar del usuario calificado o autorizado, con el objetivo de establecer definiciones y determinar si las operaciones de comercio exterior que desarrolla el usuario calificado o autorizado al interior de la zona franca cumplen con la normatividad legal vigente del régimen franco.
+Después de terminar con el ciclo de visitas de conocimiento productivo y/o prestación de servicio en el primer semestre del año correspondiente, descritas en el Numeral 5.7 CONOCIMIENTO DE LOS PROCESOS PRODUCTIVOS Y/O PRESTACIÓN DE SERVICIOS DE LOS USUARIOS, en el segundo semestre del año, el analista Senior o Junior de Operaciones encargado con apoyo del Coordinador y/o Supervisor de operaciones debe realizar un (1) análisis al usuario calificado o autorizado que le sea asignado mediante el diligenciamiento del Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP-072 y teniendo en cuenta los parámetros y consideraciones establecidas desde la Dirección de Operaciones como autorizaciones excepcionales, nuevas operaciones o unidades de negocio, cambios normativos, cambios en el desarrollo de las operaciones, entre otras. En todo caso, la Dirección de Operaciones será quien determine las variables a tener en cuenta al momento de realizar el análisis integral de cada usuario.
+Para realizar esta actividad es fundamental tomar como base los resultados de la última visita realizada al usuario calificado o autorizado consignada en la LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037 y la actualización de la FICHA TECNICA DE OPERACIONES - FO-OP-051 del usuario que corresponda. Cuando se identifique en las definiciones del Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP-072 que no se ajusta a las disposiciones legales del régimen de zonas francas, se deberá tomar acción inmediata para corregir o ajustar las operaciones del usuario calificado o autorizado.
+Una vez culmine la actividad, el Coordinador de Operaciones y/o Supervisor de Operaciones en las reuniones de soporte directivo debe presentar el Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP-072 elaborado para la Dirección de Operaciones. Asimismo, deberán enviar el documento al correo electrónico del subproceso de Aseguramiento para que consolide y los almacene en la carpeta compartida de Google Drive.	
+
+
+
+
+
+
+
+Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP- 072
+LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037
+FICHA TECNICA DE OPERACIONES - FO-OP-051
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5 PLAN DE CIERRE A LOS USUARIOS
+RETIRADOS DE ZONA FRANCA
+Coordinador de Operaciones
+Supervisor de operaciones	
+Con el fin de asegurar que el usuario que se retira o pierde la calificación quede a paz y salvo con los compromisos adquiridos durante su permanencia en la zona franca ya sea con el usuario operador o con la autoridad aduanera, así como la correcta disposición de las mercancías que tiene en sus instalaciones y el cumplimiento de las formalidades aduaneras.
+El Coordinador, Supervisor de Operaciones y/o Analista Senior encargado debe establecer un cronograma de cierre de la operación, el cual incluye las siguientes actividades a ejecutar:
+1.	El usuario calificado manifiesta a la Gerencia, o al jefe jurídico, o a la dirección de operaciones su interés de retirarse de la zona franca como usuario calificado, a través de una comunicación escrita por el Representante Legal de la empresa, informando los motivos por los cuales solicita el retiro voluntario y la fecha estimada de retiro. Una vez se acepte el retiro por parte del usuario operador; el jefe jurídico o la Dirección de operaciones debe notificar al coordinador de operaciones de la zona franca correspondiente para que se inicie el proceso de retiro de los saldos teóricos de inventario en el sistema AMIGO/AMIGO PRO cumpliendo las formalidades aduaneras.
+2.	Comunicado al Usuario indicando el tiempo máximo para darle disposición a la mercancía, las pautas a seguir con el proceso Gestión de Operaciones para hacer el cierre del usuario en Zona Franca y los pendientes que se deben ejecutar para dejar los saldos teóricos en cero.
+3.	Verificación en el sistema AMIGO o AMIGO PRO de los saldos teóricos de inventario y la identificación del inventario físico de origen extranjero para evitar que sea retirado sin cumplir con las formalidades y requisitos aduaneros que dieran lugar, así como también, establecer la disposición final de toda la mercancía y sus respectivas transacciones de salida o formatos del SIG de operaciones correspondientes.
+4.	En caso de que el usuario presente mora en el pago de la cartera, el proceso de contabilidad y auditoría debe notificar al coordinador de operaciones el bloqueo de la salida de activos fijos. A su vez, el coordinador de operaciones de la zona franca correspondiente debe notificar al proceso de gestión de operaciones para que no se permita la salida física de los activos fijos de la zona franca hasta tanto se tenga una nueva confirmación de la jefatura de contabilidad y auditoría. En caso de no tener la notificación del proceso de contabilidad y auditoría, se entenderá que el usuario que se retira no tiene pendientes en el pago de la cartera. Lo anterior, solo aplica para zona franca Palmaseca S.A.
+5.	Antes de la entrega de la bodega a Gestión de Infraestructura y Servicios por parte del usuario retirado, el Analista de Operaciones con el rol de inspector debe constatar que toda la mercancía que estaba en el inventario del Sistema AMIGO/AMIGO PRO fue retirada en su totalidad a través de la verificación de los saldos de inventario. Se debe procurar que el inventario quede en cero antes de la fecha de retiro del usuario. Lo anterior, solo aplica para zona franca Palmaseca S.A.
+6.	Confirmar la salida total de la mercancía de la zona franca y el cierre de pendientes con Gestión de Operaciones.
+
+7.	Una vez el proceso Jurídico envíe el acto de descalificación del usuario, el Coordinador de Operaciones o Supervisor de Operaciones de la zona franca correspondiente en aras de generar las alertas necesarias debe notificar formalmente a todo el proceso de Gestión de Operaciones .
+8.	Finalmente, el Coordinador o Supervisor de Operaciones debe confirmar al proceso de Gestión de Sistemas que los saldos teóricos del sistema AMIGO/AMIGO PRO se encuentran en cero para que se proceda con la inactivación del código de empresa en el sistema de inventarios de la zona franca.
+Nota 1: los puntos a verificar aplican teniendo en cuenta el tipo de usuario y la zona franca donde se encuentre instalado. En todo caso, se debe cumplir lo establecido en el procedimiento RETIRO DE USUARIOS Y/O EMPRESAS DE APOYO EN ZONAS FRANCAS PERMANENTES O ZONAS PERMANENTES ESPECIALES - PR-CS-005
+El cronograma de plan de cierre de usuarios retirados se encuentra en el siguiente ENLACE DE CONSULTA Nota 2: Todos los puntos no aplican para las Zonas Francas Permanentes Especiales.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive
+
+Cronograma plan de cierre usuarios retirados de zona franca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.6 SEGUIMIENTO A LOS NUEVOS
+USUARIOS CALIFICADOS DE ZONA FRANCA
+Coordinador de Operaciones
+Supervisor de operaciones
+Analista senior de operaciones	
+Una vez calificado el nuevo usuario a través del acto de calificación emitido por el proceso Jurídico y notificado a Gestión de Operaciones, se deben realizar las siguientes actividades estipuladas en el cronograma de actividades para nuevos usuarios:
+1.	La Dirección de operaciones en conjunto con el Jefe Jurídico, la Jefe de Infraestructura y SAC y el Coordinador de Operaciones, programan una reunión para darle la bienvenida al nuevo usuario, informarle como se encuentra estructurado los servicios que se ofrecen, horarios de atención, personas de contacto, actividades y compromisos a ejecutar con el proceso Jurídico, así como también las consideraciones e instrucciones para el cumplimiento del régimen franco.
+2.	La Dirección de operaciones le envía al nuevo usuario el Manual de Operaciones de la zona franca que corresponda.
+
+3.	El Coordinador de Operaciones, Supervisor de Operaciones o Analista Senior encargado, realiza la capacitación de régimen franco y Sistema AMIGO o AMIGO PRO según corresponda al nuevo usuario y le entrega el formato de la SOLICITUD DE CREACIÓN DE CUENTA EN APLICATIVO AMIGO / AMIGO PRO - FO-OP-048 para su diligenciamiento y la gestión de las cuentas de acceso al sistema de inventarios de la zona franca.
+4.	El Coordinador de Operaciones solicita al proceso de Sistemas la creación de código del usuario en el Sistema AMIGO o AMIGO PRO a través de una solicitud a la mesa de ayuda de dicho proceso. Igualmente, el Coordinador de Operaciones solicita al proceso de Sistemas la instalación de la VPN según la cantidad adquirida por el usuario.
+5.	El Coordinador y/o Supervisor de Operaciones le brinda acompañamiento al nuevo usuario en el inicio y la puesta en marcha de la operación.
+6.	El Coordinador de Operaciones, Supervisor de Operaciones o Analista Senior encargado reporta al proceso Jurídico la primera operación realizada por el usuario a través del sistema AMIGO o AMIGO PRO.
+7.	El Supervisor de Operaciones o Analista Senior encargado programa la primer visita para conocer el proceso productivo y/o la prestación del servicio, realizando lo dispuesto en el Numeral 5.7 CONOCIMIENTO DE LOS PROCESOS PRODUCTIVOS Y/O PRESTACIÓN DE SERVICIOS DE LOS USUARIOS.
+8.	El Analista Senior encargado debe realizar la FICHA TECNICA DE OPERACIONES - FO-OP-051, compartir vía correo electrónico a los demás colaboradores de gestión de operaciones y almacenarla en las carpetas Drive correspondientes a cada zona franca.
+9.	La Dirección de Operaciones le solicitará al proceso de Control Interno y SIG incluir en el cronograma de auditorías de Control Interno al nuevo usuario calificado, dependiendo de la puesta marcha y la cantidad de operaciones ejecutadas.
+Nota 1: los puntos a verificar aplican teniendo en cuenta el tipo de usuario y la zona franca donde se encuentre instalado. En todo caso se debe cumplir lo establecido en el VINCULACIÓN DE CLIENTES: USUARIOS Y/O ZONAS FRANCAS - PR-CS-004
+El cronograma de actividades de nuevos usuarios se encuentra en el siguiente ENLACE DE CONSULTA Nota 2: Todos los puntos no aplican para las Zonas Francas Permanentes Especiales.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive
+
+Cronograma de actividades de nuevos usuarios
+
+
+FICHA TECNICA DE OPERACIONES - FO-OP-051
+
+ 
+	
+Con el fin de conocer el proceso productivo, verificar cambios en la operación e identificar riesgos, el proceso de Gestión de Operaciones realizará una visita anual a cada usuario calificado o autorizado de la zona franca correspondiente.	
+	A continuación, se establecen los pasos que se deben llevar a cabo para realizar cada ciclo de visitas:	
+	1. El Supervisor de Operaciones o Analista Senior encargado realiza un cronograma anual de visitas a las instalaciones de los usuarios que serán realizadas por parte de los colaboradores de Gestión de Operaciones de cada zona franca. En este cronograma se debe asignar un equipo de analistas de operaciones por cada usuario y una fecha tentativa.	
+
+5.7 CONOCIMIENTO DE LOS PROCESOS
+PRODUCTIVOS Y/O PRESTACIÓN DE SERVICIOS DE LOS USUARIOS.
+Coordinador de Operaciones
+Supervisor de Operaciones
+Analista sénior de Operaciones	2.	Cada Analista de Operaciones encargado debe estar pendiente de la fecha tentativa asignada en el cronograma y acordar con el usuario calificado la visita.
+3.	El Analista de Operaciones Encargado debe enviar el correo electrónico al usuario calificado confirmando fecha y hora de la visita.
+4.	Prepararse para la visita revisando el banco de preguntas según el tipo de calificación del usuario dispuesto en el LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037
+5.	Una vez realice la visita, debe elaborar el LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037 con las respuestas (formato completo, estructurado y organizado) generadas por el usuario calificado o autorizado y actualizar la ficha técnica del usuario calificado o autorizado en FICHA TECNICA DE OPERACIONES - FO-OP-051
+6.	El equipo de Analistas de Operaciones designados deben socializar los resultados de la visita a todo el equipo de Gestión de Operaciones a través del correo electrónico y mediante los comités o reuniones internas que se realicen en el proceso de gestión de operaciones de cada zona franca; en estos espacios deben realizar la presentación de los resultados de la visita con la información más importante del usuario visitado.	
+
+FICHA TECNICA DE OPERACIONES - FO-OP-051
+
+LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037
+Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP- 072
+
+Analista de Operaciones	7. El supervisor de operaciones o el analista senior de operaciones encargado revisará la actualización de la ficha técnica y solicitará las correcciones necesarias de ser el caso.	
+	Las visitas de conocimiento del proceso productivo y/o prestación del servicio se deben realizar en el primer semestre del año bajo la metodología mencionada anteriormente, y para el segundo semestre del año, el Coordinador de Operaciones deberá asignar a un Analista Senior o Junior de operaciones para que realice el análisis integral de la operación del usuario mediante el diligenciamiento del formato para el Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP-072. Finalmente, el Analista Senior o Junior de Operaciones debe seguir lo dispuesto en el Numeral 5.4 ANÁLISIS INTEGRAL DE LAS OPERACIONES del presente instructivo.	
+
+
+
+
+
+
+5.8 ACTIVIDADES PGRN ENFOCADAS AL USUARIO OPERADOR	
+A continuación, se definen las herramientas encaminadas a tratar el riesgo al que está expuesto el usuario operador en el ejercicio de sus funciones de control:
+Reporte de eventos presentados durante el día.
+Reporte de no conformes del proceso de Gestión de Operaciones. Matriz áreas y actividades usuarios calificados.
+Verificación de la conformidad en Operaciones. Inventario de mecanismos de control.
+Reuniones de unificación de criterios.
+Consolidación de operaciones especiales y definiciones. Inspector de operaciones.	
+	
+Es una herramienta de control y recolección de todos aquellos acontecimientos que no son viables frente a lo contemplado en la normatividad actual y que pueden generar un riesgo de multas y amonestaciones con la DIAN y MINCIT. Relación de ALERTAS de riesgo que dentro de los procesos se pueden presentar en las actividades diarias de la operación, principalmente de los usuarios, empresas de apoyo y proveedores de servicio.	
+
+
+5.9 REPORTE DE EVENTOS
+PRESENTADOS DURANTE EL DÍA	Todos los colaboradores del proceso de Gestión Operaciones deben registrar los eventos que se presenten en el día y que pueden generar riesgos al porceso de tipo sancionatorio relacionados con el régimen franco, para ello se debe diligenciar el "reporte de eventos detectados en el día” que se encuentra disponible a través del formulario en Google drive.
+El Analista de Operaciones que registre el hallazgo debe tratarlo gestionando así el riesgo, es decir, debe generar la acción correctora o correctiva según sea el caso y velar por que se cumpla a cabalidad. No obstante, se apoyará en el Coordinador o Supervisor de Operaciones en caso que lo requiera.	
+
+
+
+
+
+
+Google Drive
+Analista de operaciones
+Coordinador de operaciones	La información que se registre en el reporte se trasladará a una matriz general de eventos en Google DOCS, la cual está formulada para que de acuerdo al código del evento seleccionado por el Analista, indique la infracción, sanción y naturaleza del hallazgo, para el usuario y el usuario operador.	Reporte de eventos presentados durante el día
+
+Supervisor de operaciones	Asimismo, se podrán visualizar estadísticas relacionadas con la cantidad de eventos por usuario, por mes, escalafón y sus correspondientes gráficas, frecuencia por tipo de vulnerabilidad, frecuencia por tipo de evento; estas se alimentan automáticamente de los datos que se registren en el reporte.	
+	El formulario para el reporte de los eventos presentados durante el día se encuentra en el siguiente ENLACE DE CONSULTA
+
+	La Matriz de eventos presentados durante el día se encuentra en el siguiente ENLACE DE CONSULTA
+
+	Al finalizar el año, el subproceso de Aseguramiento debe revisar y analizar los hallazgos que se registren en la matriz de eventos del día y asimismo serán un insumo para establecer los planes de acción de fondo que se registran en el próximo año.	
+ 
+
+
+
+
+
+
+
+
+
+
+
+5.10 REPORTE DE NO CONFORMES DEL
+PROCESO DE GESTIÓN OPERACIONES	
+Es una herramienta que facilita el registro y el control de las salidas no conformes generadas por los colaboradores del proceso de Gestión de Operaciones. La matriz indica para cada tipo de error, cuantos se han cometido y por quienes, de acuerdo a la zona franca que pertenecen.
+Cada zona franca cuenta con un formulario de Google donde se registra las salidas no conformes de los colaboradores de Gestión de Operaciones. La información que se registre se traslada a una matriz general en Google DOCS (cada una tiene el nombre de la respectiva zona franca) en el que se detalla: fecha de registro, fecha del evento, la persona que cometió el error, la actividad en la que se identificó, la descripción del error, causas, el procedimiento o instructivo incumplido, el tipo de infracción y sanción normativa al que estamos expuesto según el código de error seleccionado, las acciones y el tratamiento que se le dió al error presentado, entre otros.
+Adicionalmente, se visualizan estadísticas relacionadas con la cantidad de errores por cada colaborador por mes, escalafón y sus correspondientes gráficas, frecuencia de cada tipo de error por zona franca, etc; en la matriz integrada que está almacenada en la carpeta del Google Drive denominada “ERRORES POR FUNCIONARIO”.
+La matriz de no conformes se establece con el fin de conocer: Los no conformes más frecuentes.
+Los colaboradores más propensos a generar salidas no conformes. Del total, cual es el subproceso que más presenta errores.
+Cuáles son las causas que originan el error (descuido o falta de atención, falta de destrezas, falta de conocimiento, entre otros).
+
+El Coordinador y/o Supervisor de Operaciones toman los datos allí consignados y generan un tratamiento con cada colaborador, de manera que se evalúa las causas de estos errores y se generan tratamientos para mitigar la ocurrencia futura de los mismos con causas similares.
+El formulario para el reporte de las salidas no conformes del proceso de gestión de Operaciones se encuentran en los siguientes enlaces:
+1.	Reporte de Salidas No conformes Palmaseca.
+2.	Reporte de Salidas No conformes Parque Sur.
+3.	Reporte de Salidas No conformes Proyectos.
+
+La Matriz de salidas no conformes se encuentra en el siguiente ENLACE DE CONSULTA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive
+
+Coordinador de operaciones
+
+Dirección de Operaciones		Reporte de no conformes del proceso de Gestión de Operaciones
+Supervisor de operaciones		
+
+5.11 MATRIZ DE ÁREAS Y ACTIVIDADES
+USUARIOS
+CALIFICADOS.	
+Con el fin de contar de manera actualizada y consolidada con las actividades y las áreas calificadas de cada uno de los usuarios de las zona francas permanentes. El analista de Operaciones debe consultar permanentemente esta información, la cual es actualizada por el proceso de Gestión Jurídica toda vez que se genera un Otrosí. Lo anterior, con el objetivo de identificar posibles ceses de actividades, que las operaciones de comercio exterior y las áreas utilizadas guarden relación con lo calificado por el Usuario Operador.	
+
+
+
+Google Drive
+
+Analista Junior Jurídico
+
+supervisor de operaciones
+
+Analistas de operaciones.	Toda vez que se presente un cambio realizado por el proceso de Gestión jurídica, el Supervisor de Operaciones y/o Analista Senior encargado notifica mediante correo eléctronico a los Analistas de Operaciones sobre los últimos cambios efectuados con el fin de informar y realizar las validaciones pertinentes por parte del inspector de operaciones cuando corresponda según Numeral 5.16 INSPECTOR DE OPERACIONES.
+La matriz de AREAS Y ACTIVIDADES USUARIOS CALIFICADOS se encuentra en el siguiente ENLACE DE CONSULTA Nota: Esta matriz solo aplica para las zonas francas permanentes.
+Áreas y actividades usuarios calificados
+FICHA TECNICA DE OPERACIONES - FO-OP-051
+
+
+
+
+
+
+
+
+5.12 VERIFICACIÓN DE LA CONFORMIDAD EN
+OPERACIONES	
+Semanalmente el Analista Sénior de Operaciones encargado, debe validar de forma integral y aleatoria, todos los registros relacionados con las diez operaciones seleccionadas (5 de Ingreso y 5 de salida) y consignar los resultados en el formato VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038 . Posteriormente, el Supervisor o Analista Sénior encargado debe socializar los hallazgos con los Analistas de Operaciones para unificar criterios y establecer los tratamientos correspondientes en las reuniones o comités internos.
+El primer día hábil de la semana siguiente, el Analista Sénior encargado deberá tener correctamente diligenciado el formato VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038 y las no conformidades u observaciones consignadas en la casilla correspondiente.	
+
+
+
+
+
+
+
+
+
+
+Google drive
+
+Coordinador de Operaciones
+
+Supervisor de Operaciones
+
+Analista Sénior de Operaciones	Cada zona franca debe tener una carpeta en el Google Drive denominada “Verificación de la conformidad en Operaciones (Nombre de la zona Franca), en la cual se almacenará los formatos para el control, análisis y seguimiento por parte del Coordinador y/o Supervisor de Operaciones.
+Cabe aclarar que los mismos analistas que diligencian el VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038, posteriormente deben subir el formato en la carpeta de Google Drive de la zona franca a la que corresponda. Estas verificaciones se realizan de manera cruzada entre zonas francas y cada año se establece los cambios o ajustes pertinentes por parte del subproceso de Aseguramiento.	
+VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038
+
+	Nota: Los no conformes que se registren en el formato VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038, se deberán trasladar al reporte consolidado de las salidas no conformes del proceso de Gestión de Operaciones para su correspondiente plan de acción y seguimiento por parte del Coordinador de Operaciones conforme al Numeral 5.10 REPORTE DE NO CONFORMES DEL PROCESO DE GESTIÓN OPERACIONES.	
+
+5.13 INVENTARIO DE MECANISMOS DE
+CONTROL		
+Dirección de Operaciones
+Coordinador de operaciones
+Supervisor de operaciones
+Supervisor de aseguramiento	Con el fin de consolidar de una manera práctica, simple y tipificar todos los controles que se tienen establecidos en el proceso de gestión de operaciones en los diferentes procedimientos e instructivos definidos para garantizar el cumplimiento del régimen de zonas francas vigente; el inventario de mecanismos de control es una herramienta que permite a los colaboradores de Gestión de Operaciones consultar e identificar el control según el tipo de operación, la clasificación del mismo teniendo en cuenta si es una exigencia normativa del régimen franco, o es un control que se establece por la certificación de Operador Económico Autorizado para zonas francas o si es un control operacional interno conforme al mapa de riesgos del proceso de Gestión de Operaciones. Asimismo, se describe si el control es físico o documental, cual es el subproceso involucrado, quien lo debe realizar, en donde lo debe ejecutar, la frecuencia de validación y en que instructivo se encuentra la forma definida para ejecutar cada mecanismo de control.
+Esta herramienta debe ser actualizada por el subproceso de Aseguramiento cuando se genere algún cambio normativo que conlleve a la actualizacion de procedimientos e instructivos del proceso de Gestión de Operaciones.	
+
+Google drive
+
+Inventario de mecanismos de control a los usuarios calificados o autorizados de zona franca Palmaseca
+S.A. y zonas
+operadas
+Analista senior de aseguramiento	El inventario de mecanismos de control a los usuarios calificados o autorizados se encuentra en el siguiente ENLACE DE CONSULTA
+
+Analista senior de operaciones		
+ 
+
+5.14 REUNIONES DE UNIFICACIÓN DE
+CRITERIOS Y RIESGO NORMATIVO
+
+
+Dirección de Operaciones
+Jefe de Gestión jurídica
+
+Coordinador de Operaciones
+Supervisor de operaciones
+Supervisor de aseguramiento
+Analista senior de aseguramiento	
+
+La Dirección de Operaciones convocará a reunión a los Coordinadores y Supervisores de Operaciones, Jefe Jurídico y el subproceso de Aseguramiento para discutir aspectos normativos del régimen franco u otras disposiciones implementadas en circulares, decretos, oficios, etc. Lo anterior, con la finalidad de establecer lineamientos de cómo se debe efectuar las operaciones en zona franca para el cumplimento de dicha normatividad y tomar medidas correctivas en el caso que un proceso no se ajuste a lo dispuesto.
+Dichos criterios deben ser implementados en todas las zonas francas operadas por la zona franca permanente Palmaseca y deben actuar sincronizadas bajo los mismos parámetros establecidos.
+Una vez se llegue al consenso de la reunión, el subproceso de Aseguramiento expedirá el acta con todos los criterios unificados que resulten de la jornada.
+Posteriormente enviará vía correo electrónico socializando al comité de operaciones, los cambios acordados, nuevas instrucciones o controles que deberán implementarse al interior del proceso. A su vez, el Coordinador, Supervisor de operaciones y/o Analista Senior encargado deberá socializar las nuevas instrucciones unificadas en las reuniones de subprocesos o comités primarios.
+Finalmente, las actas de unificación de criterios se almacenarán en carpetas compartidas de GOOGLE DRIVE para consulta de todos los colaboradores de Gestión de Operaciones.
+El acta de unificación de criterios elaborada por el proceso de Aseguramiento se encuentra en el siguiente ENLACE DE CONSULTA.
+
+
+
+
+
+
+
+
+
+
+
+
+Actas de Unificación de criterios
+
+
+
+5.15 CONSOLIDACIÓN DE OPERACIONES
+ESPECIALES Y DEFINICIONES
+Jefe de gestión Jurídica
+
+Dirección de Operaciones
+
+Coordinador de operaciones
+
+Supervisor de operaciones	
+Es una matriz que recopila todas aquellas consultas, casos y solicitudes de autorización que realizan los usuarios, para llevar a cabo operaciones que pueden requerir un tratamiento especial por su manejo normativo (todas aquellas operaciones que no se ajustan estrictamente a los códigos de operación o dentro de la norma se consideran excepciones); asimismo incluirá las definiciones o la metodología de toma de decisiones que utiliza la Dirección de Operaciones para dar solución y tramite a dichos casos.
+Esta matriz se alimenta mediante un formulario de GOOGLE denominado REPORTE DE OPERACIONES ESPECIALES Y DEFINICIONES, que esta compartido a Coordinadores, Supervisores, Jefe jurídico y Dirección de Operaciones.
+La información que se registre se trasladará a una matriz en Google DOCS, la cual incluye una casilla denominada "Definición final según Dirección de operaciones / Jefatura jurídica", en la que se registra por cada caso la solución o la metodología de toma de decisiones que utiliza la Dirección de Operaciones/ Jefe jurídico para dar trámite a cada uno, además del sustento normativo en la que se basó la decisión.
+En el caso de que se presente una situación similar en la operación actual, podrá ser consultado y tomarse como guía para darle manejo a la operación que se esté presentando.
+
+El formulario para el reporte de operaciones especiales y definiciones se encuentra en el sigueinte ENLACE DE CONSULTA
+
+La Matriz de Operaciones especiales y definiciones se encuentra en el siguiente ENLACE DE CONSULTA
+
+
+
+
+
+
+
+
+
+
+Reporte de Operaciones Especiales y definiciones
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.16 INSPECTOR DE OPERACIONES
+
+
+Coordinador de operaciones
+Supervisor de operaciones
+Analista de Operaciones	
+El Analista de Operaciones en el rol de inspector de Operaciones deberá vigilar la ejecución de los controles normativos estipulados por el Usuario Operador para el cumplimiento del régimen franco vigente.
+El rol de inspector de operaciones debe ejecutar las siguientes actividades según la programación, periodicidad y perfil de riesgo de los usuarios calificados o autorizados de cada zona franca operada:
+Realizar recorridos a los parques industriales.
+Verificación del cerramiento perimetral de las zonas francas permanentes especiales en coordinación con el personal encargado del usuario autorizado y el personal de seguridad contratado.
+Verificación de áreas calificadas de los usuarios, las empresas de apoyo y los proveedores de servicio.
+Verificación de bahias externas, áreas de bodegas compartidas y áreas de patios de los usuarios o modificación de áreas calificadas notificadas por el proceso de gestión jurídica.
+Verificación in situ de las actividades que realizan los usuarios, empresas de apoyo y proveedores de servicio.
+Realizar inspecciones al cargue de la mercancía que será objeto de exportación, a las salidas de material de empaque y embalaje que no hacen parte del proceso productivo y/o prestación del servicio, a las salidas de desperdicios con y sin valor comercial, a las salidas y reingresos de mercancía por revisión, reparación, mantenimiento, pruebas técnicas, análisis y procesamiento parcial, traslados de mercancías entre usuarios, ingresos y salidas de mercancía en general, según se comisione.
+Realizar las visitas a los talleres y empresas que prestarán servicios de revisión, reparación, mantenimiento, pruebas técnicas y procesamiento parcial conforme a las solicitudes del usuario calificado o autorizado y teniendo en cuenta la programación realizada por el Coordinador de Operaciones.
+Realizar presencia en las destrucciones de las mercancías en grave estado de deterioro, descomposición, daño total o demerito absoluto.
+Verificación de mercancía no constrolada en el sistema de inventarios de la zona franca AMIGO o AMIGO PRO. Verificación de diferencias de peso para la salida de mercancía de la zona franca.
+Inspección al mantenimiento de contenedores o unidades de carga dentro del área declarada de como zona franca.
+
+El inspector de operaciones tendrá una lista de chequeo con todas las operaciopnes que debe verificar según se le comisione conforme al formato LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES - FO-OP-064
+El inspector de operaciones al final de la diligencia deberá:
+
+Diligenciar de forma correcta, clara y detalladamente los formatos del SIG de Operaciones en donde se requiera la intervención del mismo, registrando lo observado, las novedades y tomando el registro fotográfico correspondiente.
+Retroalimentar al usuario de las novedades y los riesgos evidenciados en el momento de la diligencia de verificación.
+Notificar inmediatamente al coordinador y/o supervisor de operaciones para que se tomen las medidas correctivas de manera oportuna en caso de evidenciar desviaciones en las operaciones verificadas.
+Registrar detalladamente las observaciones o las novedades que se presenten en el formato LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES - FO-OP-064 y tomar registro fotografico de la diligencia de verificación (obligatorio).
+Almacenar de forma organizada y trazable las evidencias fotográficas en las carpetas compartidas que se designen en cada zona franca.
+Metodología:
+
+El coordinador y/o supervisor de operaciones o persona delegada elaborará un cronograma anual donde se identifique el responsable de ejecutar el rol y las actividades con las periodicidades establecidas.
+Para la solicitud de las inspecciones de mercancías el usuario calificado o autorizado debe notificar mediante los canales de comunicación oficiales establecidos por el usuario Operador.
+La priorización y periodicidad de las inspecciones de las mercancías se deben establecer conforme a las obligaciones y controles que debe ejecutar el usuario operador según la normatividad del régimen franco vigente y el Perfilamiento del Riesgo de Usuarios de la Zona Franca Palmaseca S.A. - FO-CI-001 elaborado por el proceso de Control Interno y SIG, donde se determina el nivel de criticidad de los usuarios calificados o autorizados. Se debe tener como segundo criterio de priorización los usuarios con riesgo alto y medio principalmente, sin que esto signifique que no se deba verificar a los demás usuarios con perfil de riesgo bajo; se debe realizar inspecciones físicas de mercancías de manera aleatoria, pero garantizando que se ejecute el control a todos los usuarios de la zona franca.
+El inspector de operaciones debe registrar en qué momento del cargue del vehículo realiza presencia y cuánto tiempo está en la diligencia de verificación, en los formatos del SIG de Operaciones que lo soliciten. Debe garantizar el correcto diligenciamiento de los formatos, el control de las firmas autorizadas y la redacción clara, detallada y suficiente en las observaciones de cada documento en el cual interviene de primera mano.
+Las verificaciones de las mercancías podrán realizarse en la báscula camionera si los vehículos permiten identificar fácilmente la mercancía o por disponibilidad del recurso humano en las zonas francas permanentes especiales (una persona por turno) o en situación de contingencia por falta de personal disponible. Lo anterior, será autorizado y bajo la responsabilidad del Coordinador y/o Supervisor de operaciones. El Analista en báscula debe ejecutar todos los controles establecidos registro fotográfico, diligenciamiento del LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES - FO-OP-064 y los demás documentos que soporten la operación relacionando en las observaciones las validaciones realizadas desde la báscula camionera.
+El inspector de operaciones debe garantizar la trazabilidad y correcto soporte de todas las inspecciones ejecutadas con el registro, identificación y organización de las fotografías y la información registrada en cada documento correspondiente.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES - FO-OP-064
+Perfilamiento del Riesgo de Usuarios de la Zona Franca Palmaseca S.A. - FO- CI-001
+
+
+
+
+5.17 TIPIFICACIÓN NO CONFORMES DENTRO
+DEL PROCESO
+
+
+Dirección de Operaciones
+Coordinador de operaciones
+Supervisor de operaciones	
+
+
+A continuación, se listan las actividades donde se puede detectar No conformes en la operación:
+
+
+VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038.
+Ajustes realizados al sistema AMIGO o AMIGO PRO, en los cuales se evidencie algún error en la aprobación de los Formularios de Movimiento de Mercancías.
+Auditorías de control interno y SIG. Auditorías externas e internas.
+Tickets matriculados a sistemas por errores presentados en la operación. Reporte de interoperabilidad.
+Requerimientos de la DIAN.
+Reporte de las prevalidaciones realizadas por el DANE.
+
+VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038
+SOLICITUD DE AJUSTES DE INVENTARIOS - FO- OP-028
+
+Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP- 035
+
+ 
+
+5.18 NUEVO REQUISITO LEGAL
+
+
+Coordinador de operaciones
+
+Supervisor de operaciones
+Supervisora de aseguramiento	
+
+Cuando se presente una nueva normatividad (Ley, Decreto o Resolución) que impacte al proceso de gestión de Operaciones, la supervisora de aseguramiento debe notificar a los integrantes del comité de operaciones, para debatir y definir su aplicación, socialización y modificaciones en los instructivos y formatos que impacten.
+Una vez definida la aplicación de la nueva normatividad en la operación, los Coordinadores de Operaciones serán los encargados de implementar, socializar y gestionar con los supervisores o analista senior encargado las modificaciones en cada zona franca.
+La supervisora de aseguramiento debe diligenciar el correspondiente INFORME DE NUEVO REQUISITO LEGAL - FO-JU-003 y enviarlo dentro de los tiempos definidos por el proceso de gestión jurídica a la coordinadora Jurídica con los correspondientes soportes (si aplica).	
+
+
+INFORME DE NUEVO REQUISITO LEGAL - FO-JU-003
+
+
+Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003
+
+
+5.19 ACCIONES A SEGUIR ANTE LOS
+ACTOS SANCIONATORIOS POR PARTE DE LA AUTORIDAD ADUANERA
+Coordinador de Operaciones
+Dirección de Operaciones
+Supervisor de Operaciones
+Supervisor de aseguramiento	
+
+
+
+
+Para los casos en que el proceso Jurídico reporte la incidencia u ocurrencia de infracciones, que hayan sido expedidas por medio de actos administrativos sancionatorios por parte de la Dirección de Impuestos y Aduanas Nacionales y/o del Ministerio de Comercio, Industria y Turismo, en los que esté relacionado el proceso de Gestión de Operaciones. El Coordinador, supervisor o Analista de Operaciones encargado debe establecer la acción correctiva, según lo determina el Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003. Lo anterior, con el objetivo de que dicha situación que se materializó no se vuelva a presentar de nuevo, se generan los correctivos necesarios y se ajusten o se creen nuevos controles en el proceso. En este caso, el origen de la acción correctiva se origina de una No conformidad detectada por la revisión de los entes de control de la autoridad aduanera y/o del Ministerio de Comercio, Industria y Turismo.
+La acción correctiva será matriculada en el sistema DARUMA, identificando la descripción del evento presentado, la meta, seguimiento, responsables, responsables del seguimiento y las posibles relaciones transversales que involucren otros procesos de la compañía.	
+
+
+
+
+
+
+
+
+
+Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003
+
+
+5.20 ACCIONES CORRECTIVAS ANUALES CON
+RESPECTO A LOS HALLAZGOS DE AUDITORIAS DE CONTROL INTERNO
+Coordinador de Operaciones
+Dirección de Operaciones
+Supervisor de Operaciones
+Supervisor de aseguramiento	
+
+
+
+
+
+Teniendo en cuenta lo explicado en el punto 5.3.METODOLOGÍA GESTIÓN Y CIERRE DE HALLAZGOS DE AUDITORIA EXTERNA Y CONTROL INTERNO, del presente instructivo. Para los casos en que se detecten hallazgos en esta actividad de control, desde Gestión de Operaciones, se designará al Coordinador, supervisor o Analista de Operaciones encargado para el establecimiento de la acción correctiva, según lo determina el Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003. Con el objetivo de prevenir que dicha situación no deseada y que fue detectada en la auditoría interna o externa no se materialice nuevamente. En este caso, el origen de la acción correctiva se origina de un hallazgo de control interno.
+
+La acción correctiva será matriculada en el sistema DARUMA, identificando la descripción del evento presentado, la meta, seguimiento, responsables, responsables del seguimiento y las posibles relaciones transversales que involucren otros procesos de la compañía.	
+
+
+
+
+
+
+
+
+Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003
+
+			
+
+
+6.	DOCUMENTOS DE REFERENCIA.
+
+
+
+6.1.	DOCUMENTOS EXTERNOS:
+
+N/A
+
+6.2 DOCUMENTOS INTERNOS:
+
+
+ACTUALIZACIÓN, MANTENIMIENTO Y CUMPLIMIENTO DE LOS REQUISITOS LEGALES Y REGLAMENTARIOS DE ZONA FRANCA PALMASECA S.A. - PR-JU-002
+Auditorías de Control Interno - PR-CI-001
+Análisis Integral de las Operaciones de los Usuarios Calificados o Autorizados - FO-OP-072
+RETIRO DE USUARIOS Y/O EMPRESAS DE APOYO EN ZONAS FRANCAS PERMANENTES O ZONAS PERMANENTES ESPECIALES - PR-CS-005
+Actividades de seguimiento a Usuarios por resultados de auditoría - FO-OP-035 LISTA DE CHEQUEO VISITA USUARIOS - FO-OP-037
+Perfilamiento del Riesgo de Usuarios de la Zona Franca Palmaseca S.A. - FO-CI-001 VERIFICACIÓN DE LA CONFORMIDAD EN OPERACIONES - FO-OP-038 VINCULACIÓN DE CLIENTES: USUARIOS Y/O ZONAS FRANCAS - PR-CS-004 ACTA DE VERIFICACIÓN DE LAS OPERACIONES - FO-OP-044
+FICHA TECNICA DE OPERACIONES - FO-OP-051 INFORME DE NUEVO REQUISITO LEGAL - FO-JU-003 REGISTRO DE ASISTENCIA - FO-SIG-005
+CARGOS AUTORIZADOS PARA FIRMAR O AUTORIZAR FORMATOS SIG DE OPERACIONES Y DEMAS DOCUMENTOS DE LAS OPERACIONES EN ZONA FRANCA - DG-OP-002 FORMATO ACTA DE REUNIONES - FO-CA-018
+LISTA DE VERIFICACIÓN DEL INSPECTOR DE OPERACIONES - FO-OP-064
+Procedimiento de Acciones Correctivas, Preventivas y de Mejora - PR-SIG-003
+
+ELABORÓ	REVISÓ Y APROBÓ
+
+Kelly Silvana Arteaga Velez
+Supervisor de Aseguramiento	
+Ayda Mercedes Angulo Soto
+Director de Operaciones
+
+
+
+Jeniffer Garzón Fuentes @ 2025-05-07, 8:47:32
